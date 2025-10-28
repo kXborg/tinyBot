@@ -1,8 +1,6 @@
 # 🧠 TinyBot
 
-**TinyBot** is a minimal, text-based conversational model designed to mimic basic understanding and response behavior — similar to a chatbot, but with an ultra-light neural core.  
-
-The project aims to learn how large language models work under the hood, by building a small and interpretable version from scratch.
+**TinyBot** is a minimal, text-based conversational model designed to mimic basic understanding and response behavior — similar to a chatbot, but with an ultra-light neural core. The project aims to learn how large language models work under the hood, by building a small and interpretable version from scratch.
 
 ---
 
