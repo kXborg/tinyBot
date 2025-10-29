@@ -1,6 +1,6 @@
 # TinyBot
 
-Built to decide smart home actions intelligently, without explicit hard coding. **TinyBot** is a minimal, text-based conversational model designed to mimic basic understanding of home environment and your needs. It is similar to a chatbot but with an ultra-light neural core.
+Built to decide smart home actions intelligently, without explicit hard coding. **TinyBot** is a minimal, text-based conversational model designed to mimic basic understanding of home environment and your needs. It is similar to a chatbot but with an ultra-light neural core. Currently under development.
 
 ---
 
