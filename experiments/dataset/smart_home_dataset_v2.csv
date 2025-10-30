@@ -1,0 +1,1001 @@
+temperature,humidity,light_intensity,noise_level,pir_motion,ultrasonic_distance,person_count,door_state,window_state,co2_level,gas_leak,smoke_detected,rain_detected,energy_usage,voice_command,room_type,time_of_day,device,state
+39.43,80.43,64.68,32.4,0,128.13,0,closed,closed,618.64,1,1,1,1052.3,turn off everything,kitchen,night,fan,ON
+21.51,75.38,61.95,58.14,1,236.17,2,open,open,1948.79,0,1,1,420.81,it's hot,living_room,evening,fan,ON
+22.7,29.86,96.09,57.53,1,47.44,0,open,closed,1002.17,0,0,0,1951.84,turn off the fan,living_room,morning,light,OFF
+31.92,53.87,64.27,29.02,1,250.43,2,closed,closed,1479.13,1,1,1,12.07,start the geyser,living_room,morning,fan,ON
+31.78,42.55,47.0,22.67,1,108.47,2,closed,open,1649.83,0,1,0,1275.72,turn on the light,bathroom,evening,fan,ON
+30.48,33.96,14.98,59.85,0,117.26,0,closed,open,538.17,1,0,1,1885.79,turn off the fan,bathroom,evening,fan,ON
+33.14,53.49,85.6,22.32,1,10.6,2,closed,closed,1189.72,1,0,0,1901.15,it's hot,kitchen,evening,fan,ON
+25.98,45.7,9.42,37.44,1,212.02,0,open,open,535.24,0,0,0,1773.31,open the window,bathroom,morning,light,ON
+23.19,81.52,21.6,21.58,1,132.62,0,closed,closed,749.37,0,1,1,1060.11,I am leaving,bedroom,morning,fan,ON
+36.88,62.93,39.53,63.59,1,265.77,0,closed,open,621.72,0,1,0,869.7,turn on the light,bedroom,evening,fan,ON
+35.4,47.17,6.03,24.45,1,269.68,2,closed,open,423.01,1,0,1,1264.1,close the door,kitchen,afternoon,fan,ON
+27.63,49.21,98.36,27.55,1,15.56,0,open,open,854.72,0,1,1,1770.11,I am home,bathroom,afternoon,fan,ON
+38.32,69.95,4.0,29.67,0,248.57,1,closed,open,503.14,0,1,0,1606.38,turn off the fan,living_room,morning,fan,ON
+20.29,44.38,49.88,86.08,1,252.87,2,open,closed,772.01,1,1,1,345.82,turn off the fan,bedroom,morning,fan,ON
+38.05,57.39,87.36,55.03,0,217.19,3,open,closed,418.93,1,1,1,1851.99,turn off the fan,kitchen,morning,fan,ON
+17.26,44.97,75.53,78.7,1,56.3,2,closed,closed,1562.53,0,0,0,1614.96,good night,kitchen,night,light,OFF
+19.46,72.46,35.25,79.17,1,90.36,0,closed,open,733.83,1,1,1,1632.92,I am leaving,kitchen,afternoon,fan,ON
+24.03,40.13,50.47,82.88,0,19.28,0,closed,open,898.41,0,1,0,1469.22,I am leaving,bedroom,evening,fan,ON
+23.45,77.64,86.02,69.39,0,256.08,2,open,open,1705.6,1,1,1,1769.9,it's hot,kitchen,afternoon,fan,ON
+35.43,64.51,57.09,85.72,1,206.22,1,open,closed,1913.8,1,1,0,1007.83,open the window,kitchen,morning,fan,ON
+23.26,53.27,58.14,43.67,0,131.27,1,closed,open,1416.69,1,1,1,464.6,start the geyser,living_room,morning,fan,ON
+19.79,65.6,19.83,34.82,1,84.41,0,open,closed,1101.87,1,0,0,1673.44,I am leaving,bathroom,evening,fan,ON
+26.21,71.47,59.47,79.62,0,74.17,3,closed,closed,1766.01,1,0,0,617.1,turn on the light,bathroom,afternoon,fan,ON
+39.51,28.33,96.35,34.68,0,196.46,2,closed,closed,1217.89,0,0,1,158.01,I am leaving,living_room,afternoon,window,OPEN
+19.59,41.75,23.29,14.72,0,200.26,0,open,closed,734.69,0,0,1,215.86,good night,bedroom,morning,geyser,ON
+17.08,58.97,16.21,38.62,1,30.66,3,open,open,1925.55,0,0,0,1147.64,open the window,kitchen,morning,light,ON
+35.93,75.79,17.55,28.2,1,79.08,0,closed,closed,1818.34,1,0,0,1680.68,I am home,living_room,afternoon,fan,ON
+18.63,83.57,87.23,67.57,0,54.78,3,closed,closed,807.81,1,1,0,1423.52,I am home,bedroom,afternoon,fan,ON
+36.12,75.45,14.77,77.64,0,178.72,0,closed,closed,333.51,0,1,0,1880.69,close the door,bedroom,afternoon,fan,ON
+36.21,81.32,96.61,80.06,0,207.06,3,open,closed,836.57,1,0,0,235.85,I am leaving,kitchen,afternoon,fan,ON
+23.68,33.31,39.0,74.25,0,124.81,2,closed,open,388.14,0,0,1,1184.01,I am leaving,bathroom,morning,window,CLOSE
+26.68,84.42,60.07,14.82,0,284.6,1,closed,closed,456.77,1,1,1,209.35,it's hot,living_room,night,fan,ON
+29.47,86.49,67.0,74.95,0,153.14,3,open,closed,1961.99,1,0,0,1884.85,I am leaving,bathroom,morning,fan,ON
+32.51,59.69,5.95,60.93,0,67.67,1,closed,open,1338.74,0,1,0,33.06,I am leaving,living_room,afternoon,fan,ON
+24.8,48.03,96.37,78.3,0,68.73,0,closed,closed,862.41,1,1,1,1709.38,turn off the fan,bedroom,morning,fan,ON
+22.94,76.6,56.79,29.51,0,289.25,1,open,closed,1803.27,0,1,1,1158.72,start the geyser,living_room,evening,fan,ON
+25.75,24.01,60.18,78.93,1,233.69,2,closed,closed,1514.45,0,1,1,386.2,I am leaving,bedroom,evening,fan,ON
+26.03,57.98,86.39,11.49,1,60.82,2,open,open,1544.13,1,1,1,1344.63,good morning,living_room,morning,fan,ON
+27.16,68.21,3.01,61.54,1,19.98,0,open,open,1790.0,1,0,1,1319.5,good morning,bathroom,night,fan,ON
+20.85,46.66,67.56,65.1,1,204.51,0,closed,closed,1902.58,0,1,0,1567.09,start the geyser,bedroom,afternoon,fan,ON
+23.59,22.29,6.39,35.75,1,284.98,1,closed,closed,514.2,0,0,1,1847.76,close the door,bedroom,morning,light,ON
+19.04,46.27,89.43,14.49,0,250.24,0,closed,open,826.69,0,1,1,319.07,I am home,bathroom,morning,fan,ON
+21.4,82.51,36.31,23.67,0,89.46,0,closed,closed,1814.94,1,1,1,58.3,I am leaving,living_room,morning,fan,ON
+35.64,52.09,50.71,27.54,0,238.81,1,open,closed,931.94,0,0,0,1792.98,I am home,bathroom,afternoon,ac,ON
+19.84,56.88,1.76,12.19,1,151.79,2,closed,open,778.79,0,0,0,380.09,good night,living_room,evening,light,OFF
+16.8,25.73,9.04,74.65,1,111.83,2,open,open,560.08,0,0,0,1738.81,I am home,bathroom,morning,light,ON
+32.05,78.4,70.56,31.23,1,21.98,2,open,open,466.45,1,1,1,1679.68,good morning,bedroom,morning,fan,ON
+24.21,22.48,79.81,38.73,1,135.18,1,closed,open,1516.74,0,1,0,1004.22,open the window,bedroom,morning,fan,ON
+17.28,26.84,84.0,24.23,1,37.62,3,closed,open,849.79,1,0,0,1455.48,close the door,kitchen,morning,fan,ON
+23.83,43.97,79.39,24.77,0,242.21,2,closed,closed,774.47,0,1,0,1411.37,it's hot,bedroom,afternoon,fan,ON
+38.81,88.07,19.0,86.54,0,232.23,2,closed,open,445.24,1,0,1,837.25,turn off everything,kitchen,morning,fan,ON
+30.7,23.89,45.62,65.62,1,98.13,2,open,open,1860.8,1,0,1,1081.65,turn on the light,bedroom,afternoon,fan,ON
+16.11,59.69,17.99,55.36,1,256.22,3,open,closed,1148.19,0,0,0,1717.2,I am leaving,kitchen,afternoon,light,ON
+23.45,76.08,38.92,24.49,0,130.67,0,closed,closed,1147.81,0,1,1,860.74,it's hot,living_room,night,fan,ON
+28.35,48.56,37.64,19.49,0,254.13,0,closed,open,813.5,1,1,1,712.51,I am leaving,bedroom,afternoon,fan,ON
+34.03,47.23,90.32,19.22,1,242.57,2,closed,open,1763.98,0,1,0,1520.03,good night,bathroom,morning,fan,ON
+24.1,50.86,89.33,15.73,0,133.89,2,closed,closed,1715.34,1,0,1,1967.69,turn off the fan,kitchen,afternoon,fan,ON
+23.54,28.72,77.59,80.47,1,68.57,2,closed,closed,904.61,1,0,0,1759.83,good morning,bedroom,evening,fan,ON
+18.38,55.21,42.54,26.97,1,153.95,0,open,closed,329.75,1,1,0,703.64,start the geyser,bedroom,night,fan,ON
+26.42,76.1,76.72,68.62,1,212.8,0,closed,closed,1250.17,1,0,0,1735.26,turn off everything,bathroom,evening,fan,ON
+39.35,59.63,36.38,16.23,1,134.86,3,closed,closed,485.22,0,0,0,1181.9,good night,bedroom,night,ac,ON
+37.69,74.6,34.12,39.38,1,145.49,0,closed,open,860.07,1,1,0,132.75,good night,bathroom,afternoon,fan,ON
+29.03,25.13,10.15,22.12,1,141.23,3,open,closed,1088.68,1,0,0,144.92,I am leaving,living_room,morning,fan,ON
+21.95,29.06,82.8,78.54,0,270.81,0,open,closed,468.67,0,0,0,931.95,turn off everything,living_room,morning,light,OFF
+28.41,59.41,22.8,42.33,1,217.19,2,open,open,588.91,1,0,0,1375.73,it's hot,kitchen,evening,fan,ON
+24.97,59.91,65.14,31.76,0,234.75,1,closed,closed,693.02,1,1,0,802.05,good morning,living_room,afternoon,fan,ON
+28.69,54.12,38.18,55.94,0,263.98,2,closed,closed,1494.01,0,1,0,393.82,I am leaving,bedroom,morning,fan,ON
+32.88,81.07,99.43,89.67,1,82.76,1,open,closed,352.52,1,1,0,1586.82,turn off the fan,living_room,morning,fan,ON
+20.95,85.53,7.43,19.26,1,198.82,0,open,open,1306.04,1,0,0,1586.2,turn on the light,living_room,night,fan,ON
+34.14,62.33,15.68,17.95,0,33.22,1,closed,open,1189.21,0,1,0,100.89,I am leaving,bathroom,evening,fan,ON
+35.22,39.19,82.87,20.77,0,119.17,1,open,open,882.65,1,0,0,1952.77,turn on the light,kitchen,night,fan,ON
+36.38,34.97,60.71,13.21,0,255.59,0,open,closed,1079.5,0,0,0,719.1,I am home,living_room,morning,ac,ON
+17.1,87.0,15.24,81.9,1,100.42,2,closed,closed,567.82,0,1,0,21.14,it's hot,bedroom,afternoon,fan,ON
+36.75,68.4,97.14,58.48,0,206.23,1,closed,closed,794.47,0,1,0,1781.06,turn on the light,bathroom,night,fan,ON
+38.3,29.32,85.49,21.53,0,84.45,1,open,open,1862.47,1,1,1,1681.83,turn off everything,living_room,evening,fan,ON
+22.6,56.07,41.35,17.73,1,22.58,0,closed,closed,552.86,1,0,1,1609.7,good night,kitchen,morning,fan,ON
+31.86,49.07,28.57,48.02,1,110.39,2,closed,open,1112.53,1,1,1,373.71,turn off everything,kitchen,night,fan,ON
+28.34,61.17,87.72,82.07,1,102.61,2,closed,open,453.71,0,0,0,984.58,start the geyser,kitchen,morning,light,ON
+20.43,53.19,80.82,57.97,0,286.52,3,open,closed,1672.92,1,0,0,695.94,turn off everything,bathroom,night,fan,ON
+21.09,41.16,91.02,43.13,0,134.56,0,closed,closed,1020.76,1,1,1,1225.23,good night,bathroom,night,fan,ON
+28.89,70.85,29.68,44.87,0,276.35,2,open,closed,776.61,0,1,1,1865.97,I am leaving,bathroom,night,fan,ON
+37.59,34.85,48.74,72.73,1,139.86,2,closed,closed,1368.86,1,0,0,1584.49,I am home,living_room,evening,fan,ON
+27.12,43.21,90.16,26.82,0,11.34,0,open,closed,1503.79,1,0,1,524.94,turn on the light,bedroom,afternoon,fan,ON
+23.08,61.59,80.84,44.29,0,294.89,3,open,open,698.16,1,0,0,559.38,good morning,living_room,morning,fan,ON
+35.4,33.39,20.89,89.77,0,152.12,2,closed,closed,1728.91,1,0,0,1299.27,I am leaving,bedroom,morning,fan,ON
+25.58,57.43,7.02,74.0,0,18.41,3,closed,open,1452.88,0,0,0,994.01,turn off the fan,living_room,night,window,OPEN
+27.41,39.19,99.14,15.19,1,74.92,2,closed,closed,1815.41,0,1,0,1722.18,open the window,bedroom,morning,fan,ON
+32.15,28.03,95.54,38.6,1,12.04,2,closed,closed,966.7,1,1,0,1386.29,open the window,kitchen,night,fan,ON
+22.83,29.43,88.8,64.11,1,216.26,1,open,open,1861.6,0,1,1,1641.95,start the geyser,bathroom,morning,fan,ON
+33.66,58.7,7.34,11.77,1,55.43,3,open,closed,1663.1,1,1,1,735.85,close the door,living_room,night,fan,ON
+23.56,29.78,21.94,36.18,0,240.03,2,open,closed,419.91,0,1,1,1721.64,turn off the fan,living_room,afternoon,fan,ON
+33.75,28.92,40.25,64.25,0,11.43,3,closed,open,384.38,0,0,0,1118.85,I am home,living_room,morning,ac,ON
+23.49,20.73,78.85,80.22,1,132.41,1,open,open,607.73,1,0,0,149.99,open the window,bedroom,evening,fan,ON
+36.84,85.76,82.01,86.13,1,86.98,3,closed,open,488.77,0,1,1,151.85,good night,kitchen,afternoon,fan,ON
+20.42,61.22,54.69,14.1,1,205.65,0,closed,closed,924.69,1,1,0,644.09,close the door,living_room,evening,fan,ON
+39.58,22.41,27.56,22.32,1,22.97,1,closed,open,1070.64,1,1,0,545.01,it's hot,bedroom,morning,fan,ON
+38.3,85.89,21.6,20.97,0,278.12,2,open,open,1381.78,0,0,0,709.43,it's hot,bathroom,afternoon,window,OPEN
+18.8,52.93,74.35,79.44,1,208.73,2,open,closed,1685.5,0,0,1,1599.25,open the window,living_room,night,window,OPEN
+17.27,27.73,63.38,80.16,0,273.58,0,closed,open,575.78,1,0,1,1004.62,it's hot,kitchen,afternoon,fan,ON
+29.85,25.26,89.61,25.37,0,204.47,3,open,closed,1232.49,0,1,0,1727.2,turn off everything,bathroom,evening,fan,ON
+35.65,37.49,80.98,85.46,1,162.42,2,open,closed,1534.17,0,1,0,336.6,turn off everything,bathroom,afternoon,fan,ON
+23.15,27.97,62.87,74.17,0,295.98,1,open,open,1304.41,1,1,0,520.05,turn off everything,bedroom,evening,fan,ON
+19.94,64.34,45.37,79.3,0,183.01,1,open,closed,1035.76,1,1,1,1757.33,turn off the fan,bathroom,afternoon,fan,ON
+26.49,42.72,2.36,20.1,1,85.95,1,open,open,1243.01,1,1,1,1495.77,turn on the light,kitchen,night,fan,ON
+27.75,66.45,98.91,79.59,1,75.03,2,open,closed,1135.48,0,0,1,1297.71,good morning,kitchen,evening,light,ON
+39.83,86.97,2.32,65.78,1,231.64,2,closed,closed,373.15,1,0,0,865.94,open the window,kitchen,evening,fan,ON
+34.02,75.31,46.4,39.81,1,200.28,0,closed,closed,711.62,1,1,1,971.84,good morning,living_room,afternoon,fan,ON
+36.31,36.05,94.31,39.82,1,45.68,0,closed,open,1099.31,1,0,1,1641.48,good night,bedroom,morning,fan,ON
+34.95,82.51,83.94,23.97,1,77.59,1,open,closed,1574.12,1,0,0,1806.28,good morning,living_room,morning,fan,ON
+30.67,66.22,94.49,16.11,1,216.26,0,open,open,1388.91,1,0,0,894.59,open the window,bathroom,morning,fan,ON
+23.63,23.34,96.12,48.53,1,89.06,3,closed,open,647.36,1,0,1,95.01,open the window,kitchen,night,fan,ON
+24.18,85.53,90.25,33.8,0,286.71,2,open,closed,1338.28,1,1,0,52.41,open the window,bathroom,afternoon,fan,ON
+24.49,47.59,21.96,62.08,1,190.27,2,open,closed,1466.47,0,1,1,1739.71,close the door,kitchen,evening,fan,ON
+37.5,56.34,86.28,83.37,1,294.17,3,open,open,1261.4,0,0,0,1591.17,good night,bedroom,afternoon,window,OPEN
+22.79,71.8,95.25,12.72,1,103.64,1,open,open,807.64,1,0,1,363.07,it's hot,bathroom,night,fan,ON
+22.95,53.24,8.38,57.15,0,168.64,0,closed,open,415.86,0,1,0,920.28,I am home,living_room,evening,fan,ON
+25.6,48.38,11.7,11.6,1,126.94,1,closed,open,311.52,1,0,0,983.46,open the window,kitchen,night,fan,ON
+19.92,22.97,70.33,24.97,1,118.76,3,open,closed,1746.93,1,0,1,266.88,it's hot,living_room,morning,fan,ON
+39.95,76.22,25.23,19.18,1,184.09,3,closed,open,1318.6,1,1,0,34.7,I am home,bathroom,afternoon,fan,ON
+24.74,87.57,23.29,50.87,1,95.24,3,open,open,1228.12,1,0,1,26.0,turn off the fan,living_room,morning,fan,ON
+21.59,24.81,88.76,78.28,0,37.96,0,open,open,1584.52,1,0,0,698.86,turn on the light,bedroom,night,fan,ON
+28.87,86.37,13.51,78.45,0,43.91,1,closed,open,471.63,1,0,0,844.56,good night,bathroom,night,fan,ON
+25.4,48.97,87.38,48.73,1,252.09,3,open,open,687.98,1,1,0,1281.9,good night,kitchen,afternoon,fan,ON
+34.36,46.11,18.96,14.24,1,99.31,3,closed,open,1338.25,1,1,1,989.72,start the geyser,kitchen,afternoon,fan,ON
+18.56,27.67,93.63,70.18,0,15.63,3,open,closed,760.29,0,0,0,636.49,open the window,bedroom,evening,geyser,ON
+20.14,63.42,93.05,80.87,0,237.73,0,open,open,1762.09,1,0,0,1580.27,good night,bedroom,evening,fan,ON
+22.46,38.21,2.94,38.67,0,49.42,2,open,open,1084.55,1,0,1,1264.94,open the window,living_room,evening,fan,ON
+28.88,63.55,68.02,64.38,0,186.71,1,open,open,578.48,1,0,0,94.04,turn on the light,bathroom,night,fan,ON
+25.62,36.51,33.2,60.88,1,262.52,3,open,open,1950.78,1,1,0,236.98,turn off the fan,kitchen,night,fan,ON
+30.29,29.82,57.36,75.92,1,269.9,2,open,closed,858.28,1,0,1,477.29,it's hot,kitchen,afternoon,fan,ON
+31.77,70.63,3.93,47.89,1,268.6,1,open,closed,825.54,1,0,0,1378.67,turn off everything,bathroom,morning,fan,ON
+29.04,84.93,73.29,74.48,0,292.06,0,closed,closed,442.9,0,0,0,1107.15,it's hot,living_room,afternoon,ac,ON
+20.07,38.49,20.34,61.65,0,26.44,0,closed,open,1760.86,0,1,1,439.94,good night,bathroom,evening,fan,ON
+25.81,32.13,3.21,31.86,0,26.72,1,open,open,445.1,1,0,1,1952.81,I am home,bathroom,morning,fan,ON
+39.03,35.95,38.93,88.98,1,282.87,3,open,closed,1035.3,0,1,0,968.98,I am home,bedroom,night,fan,ON
+37.74,34.34,9.69,68.51,1,176.74,3,open,open,991.44,1,0,0,73.7,turn off everything,bathroom,afternoon,fan,ON
+20.28,36.02,79.58,74.59,1,189.81,2,open,open,1782.08,0,0,0,997.08,it's hot,living_room,morning,window,OPEN
+31.59,53.93,14.75,47.3,0,288.1,2,open,open,1335.41,0,1,0,47.62,turn off everything,bedroom,evening,fan,ON
+37.07,22.57,70.58,39.13,1,143.14,0,open,open,332.08,0,0,1,1973.15,turn on the light,bedroom,night,window,CLOSE
+19.42,60.87,7.29,51.5,0,117.37,0,closed,closed,512.99,1,1,0,1155.82,it's hot,bathroom,afternoon,fan,ON
+27.97,46.31,57.79,67.69,1,25.75,3,open,closed,1204.12,0,1,1,1325.52,I am leaving,living_room,morning,fan,ON
+29.48,52.17,95.36,67.31,1,69.62,0,closed,closed,947.06,1,1,1,1688.21,I am leaving,bedroom,night,fan,ON
+30.77,31.72,80.73,71.34,1,18.63,3,closed,closed,940.17,1,1,0,876.47,open the window,bathroom,afternoon,fan,ON
+31.9,84.19,29.55,24.65,0,229.63,1,open,open,852.94,0,0,1,1498.04,good morning,living_room,evening,window,CLOSE
+37.52,73.11,92.9,36.77,1,205.33,1,open,closed,1394.64,1,1,0,1600.22,I am home,bedroom,afternoon,fan,ON
+17.64,52.83,77.48,80.99,0,131.67,2,closed,closed,1285.03,1,0,0,1539.13,I am leaving,bedroom,night,fan,ON
+38.28,52.51,67.02,13.78,0,254.11,3,closed,closed,315.26,1,0,0,1568.12,I am leaving,kitchen,night,fan,ON
+31.39,48.12,68.59,88.65,0,145.8,2,open,open,1367.51,0,0,1,750.03,turn on the light,bedroom,evening,window,CLOSE
+30.99,71.11,87.51,57.05,1,180.19,3,closed,closed,904.59,1,0,0,1541.61,I am home,bedroom,evening,fan,ON
+21.21,43.27,42.89,86.78,0,83.66,1,closed,open,1024.94,1,0,0,1867.48,I am leaving,living_room,afternoon,fan,ON
+25.03,73.72,51.72,31.95,0,105.66,2,closed,open,1799.37,1,1,0,1902.29,it's hot,bedroom,night,fan,ON
+31.26,65.33,3.94,57.39,1,220.37,1,open,open,1206.24,1,0,0,1682.38,turn on the light,bedroom,night,fan,ON
+37.94,69.96,0.45,58.15,0,227.85,0,open,closed,389.8,0,0,1,1400.06,turn off everything,kitchen,afternoon,ac,ON
+23.3,53.74,72.41,55.34,0,109.99,0,closed,closed,1440.08,1,1,0,540.05,start the geyser,bedroom,evening,fan,ON
+32.09,53.42,95.21,48.77,1,239.88,1,open,closed,1011.47,0,1,1,1413.27,good night,bathroom,morning,fan,ON
+26.97,54.33,67.65,70.28,0,217.31,3,closed,open,1607.87,0,1,0,814.27,I am leaving,bedroom,evening,fan,ON
+20.29,48.48,62.09,61.16,1,143.81,3,open,open,943.82,1,1,1,1963.31,start the geyser,kitchen,morning,fan,ON
+22.51,43.26,54.71,68.62,1,21.05,1,open,closed,1998.86,1,0,1,1817.8,I am leaving,bathroom,night,fan,ON
+24.0,82.67,54.24,44.87,1,299.73,1,open,open,1570.28,0,0,0,935.17,close the door,bedroom,night,window,OPEN
+19.34,72.32,68.37,12.4,0,296.97,0,open,open,1874.38,0,0,1,1532.48,turn off the fan,bathroom,evening,window,CLOSE
+17.57,79.04,50.97,76.32,0,180.6,3,open,closed,1543.07,1,1,0,175.99,I am home,living_room,afternoon,fan,ON
+35.45,73.75,17.42,38.6,0,239.42,0,open,closed,938.94,0,0,1,966.52,I am home,kitchen,afternoon,ac,ON
+34.48,74.98,82.3,29.35,1,121.8,3,open,closed,1193.82,0,1,0,1878.31,I am leaving,bathroom,night,fan,ON
+19.62,59.37,83.83,28.48,1,286.15,3,closed,open,1566.24,1,1,1,1396.86,open the window,kitchen,morning,fan,ON
+25.75,61.53,91.02,24.7,0,168.09,1,open,closed,1262.83,0,0,1,997.67,close the door,bedroom,night,window,OPEN
+29.0,62.54,34.47,23.08,0,185.21,3,open,open,1611.88,0,0,0,37.63,I am leaving,bedroom,afternoon,window,OPEN
+33.41,66.71,11.43,62.47,0,154.57,0,open,closed,1787.67,0,1,0,1191.81,turn off the fan,living_room,morning,fan,ON
+37.24,83.4,66.74,87.9,0,184.14,2,closed,open,1491.1,0,1,0,1486.99,turn off everything,kitchen,morning,fan,ON
+26.13,61.64,59.32,18.93,0,160.65,1,closed,open,1065.25,1,0,0,1842.98,close the door,bathroom,night,fan,ON
+30.74,40.33,13.75,19.18,0,211.18,3,open,closed,733.18,0,0,0,609.45,close the door,bathroom,morning,ac,ON
+16.91,54.88,3.46,54.32,0,132.03,1,open,closed,1426.99,0,1,1,829.29,good night,bathroom,night,fan,ON
+22.23,28.09,17.5,61.32,1,126.13,0,open,closed,536.9,0,0,1,626.4,good morning,living_room,evening,light,ON
+33.3,77.2,70.16,87.1,0,41.95,0,closed,closed,1932.11,1,1,0,710.99,start the geyser,living_room,afternoon,fan,ON
+31.7,75.01,53.22,36.3,1,88.38,0,open,open,1068.93,1,1,0,1239.19,it's hot,living_room,morning,fan,ON
+17.71,85.08,40.25,63.28,1,17.99,0,closed,closed,1916.17,0,1,1,1105.42,close the door,living_room,night,fan,ON
+37.31,62.9,64.41,72.93,0,58.55,3,open,open,705.09,0,0,1,1379.55,turn off everything,bedroom,afternoon,window,CLOSE
+29.54,85.17,66.43,12.46,0,27.75,3,open,closed,1761.62,0,1,1,781.42,open the window,living_room,evening,fan,ON
+38.33,39.37,21.76,57.19,1,94.33,1,open,open,537.17,1,0,1,1738.05,I am leaving,kitchen,morning,fan,ON
+39.74,69.75,30.86,29.18,0,257.65,1,open,open,1249.86,0,1,0,1400.14,turn off the fan,bedroom,evening,fan,ON
+28.1,40.59,58.34,49.18,0,27.37,2,open,closed,1818.3,0,1,0,362.15,I am home,living_room,afternoon,fan,ON
+21.4,38.9,77.59,83.49,1,120.91,3,open,open,1999.19,1,1,1,1391.49,good morning,bedroom,morning,fan,ON
+33.81,73.47,90.25,28.49,0,67.07,2,closed,open,844.02,1,1,0,1662.45,I am home,bathroom,morning,fan,ON
+20.53,73.72,13.39,84.3,0,43.73,2,closed,open,1724.03,0,0,1,769.16,good night,bedroom,morning,window,CLOSE
+27.95,76.33,81.62,57.12,1,72.36,0,open,closed,1941.68,0,1,0,1397.46,good night,bedroom,afternoon,fan,ON
+19.02,82.34,24.61,23.8,0,67.92,0,open,open,1850.73,1,0,0,1817.76,I am home,kitchen,evening,fan,ON
+35.07,38.87,67.37,20.83,1,110.83,3,closed,closed,1744.38,1,0,1,836.87,open the window,bedroom,afternoon,fan,ON
+22.11,53.13,2.97,53.34,0,279.79,3,open,closed,1112.06,1,0,1,1444.77,turn off the fan,kitchen,afternoon,fan,ON
+35.24,73.98,42.33,11.4,0,28.89,1,closed,closed,1896.22,1,1,1,1174.58,turn on the light,bedroom,morning,fan,ON
+32.3,49.02,28.85,69.66,1,254.19,2,closed,closed,1052.51,1,1,1,1418.32,turn off everything,living_room,evening,fan,ON
+18.2,33.9,85.43,54.0,0,98.31,3,open,open,1489.49,0,1,1,203.18,turn off the fan,kitchen,night,fan,ON
+28.23,79.71,67.24,52.31,1,156.17,2,open,closed,511.03,0,1,1,809.1,start the geyser,living_room,afternoon,fan,ON
+33.76,73.78,72.79,43.02,0,292.84,2,open,open,1479.5,1,0,0,96.97,turn off the fan,kitchen,evening,fan,ON
+26.77,82.2,9.63,78.58,1,125.99,3,open,closed,1077.06,1,1,0,726.75,it's hot,kitchen,evening,fan,ON
+18.71,36.08,89.22,21.75,0,35.99,1,closed,closed,1765.57,1,0,0,244.07,open the window,kitchen,morning,fan,ON
+17.41,77.31,64.71,13.28,0,240.0,2,closed,closed,1015.33,0,1,1,902.09,it's hot,bathroom,afternoon,fan,ON
+25.93,72.08,9.85,49.77,0,266.85,2,open,open,821.18,1,0,1,1393.34,good morning,bathroom,morning,fan,ON
+17.35,81.69,72.18,86.05,1,78.41,2,open,open,1774.0,0,0,0,335.44,turn on the light,living_room,afternoon,window,OPEN
+36.35,44.06,35.9,89.9,0,36.71,1,open,open,847.5,0,1,0,1645.56,turn off the fan,living_room,morning,fan,ON
+21.94,73.99,15.85,13.55,1,51.89,0,open,open,769.44,0,1,0,1653.63,I am leaving,living_room,afternoon,fan,ON
+26.55,74.84,79.5,88.95,0,297.96,2,open,closed,1247.69,1,1,1,1215.5,good night,bedroom,evening,fan,ON
+29.78,23.38,89.46,66.4,1,205.34,0,closed,open,1201.49,0,1,0,1270.25,it's hot,bathroom,evening,fan,ON
+31.66,50.08,97.85,55.44,0,151.8,3,open,open,1903.31,1,0,1,475.23,good morning,living_room,afternoon,fan,ON
+37.64,62.77,85.19,42.94,0,17.0,3,open,open,1689.12,1,1,1,1019.4,it's hot,bathroom,morning,fan,ON
+21.66,43.97,13.97,34.8,1,284.97,3,open,closed,1510.64,1,1,1,1702.66,good morning,kitchen,evening,fan,ON
+28.59,24.17,82.63,47.78,0,190.78,0,closed,closed,1423.59,1,0,0,515.79,turn off the fan,bathroom,night,fan,ON
+30.69,71.82,32.97,40.53,0,218.77,0,open,closed,866.44,0,0,1,777.14,good night,bathroom,morning,ac,ON
+32.12,59.54,78.37,70.41,0,14.75,3,open,closed,1294.26,0,0,1,211.08,good morning,living_room,afternoon,window,OPEN
+31.1,30.2,44.73,22.1,1,208.48,1,closed,open,1960.74,1,1,0,528.22,turn off everything,bathroom,night,fan,ON
+27.24,49.38,41.25,27.42,0,260.65,0,open,closed,733.16,0,1,0,854.32,good night,bathroom,evening,fan,ON
+37.69,30.33,95.34,82.56,1,65.2,0,open,open,1568.63,0,0,1,1918.59,I am home,bedroom,afternoon,window,CLOSE
+36.27,72.67,24.5,58.04,1,243.75,0,open,open,736.67,1,0,0,1589.53,turn on the light,bathroom,morning,fan,ON
+28.19,49.53,57.26,16.96,1,146.24,1,open,open,1065.46,1,0,0,1788.44,turn on the light,bedroom,evening,fan,ON
+27.6,70.97,67.76,18.03,0,84.18,1,closed,closed,1861.58,0,0,0,1455.88,good night,bedroom,afternoon,window,OPEN
+24.87,43.37,73.4,59.1,0,102.54,2,open,closed,697.14,0,1,0,116.75,good night,bedroom,evening,fan,ON
+16.38,49.9,36.31,44.66,1,46.0,0,open,closed,1540.03,1,1,0,1809.57,turn off everything,kitchen,afternoon,fan,ON
+31.42,56.96,86.94,32.58,0,275.1,3,open,closed,385.88,0,0,1,1721.05,turn off everything,kitchen,evening,ac,ON
+29.61,68.62,31.85,13.76,1,27.28,1,open,closed,328.46,0,0,0,1332.21,turn off the fan,living_room,morning,light,ON
+27.88,65.17,44.83,16.1,1,214.18,3,closed,open,775.56,0,0,0,64.56,it's hot,bedroom,afternoon,ac,ON
+29.94,85.95,84.57,55.97,1,222.22,0,closed,closed,1978.06,1,1,0,1001.97,turn off everything,bedroom,morning,fan,ON
+29.86,50.17,79.39,79.32,1,136.49,3,closed,open,1057.32,1,1,0,79.83,turn on the light,living_room,afternoon,fan,ON
+30.82,41.36,47.28,66.61,1,164.14,1,closed,open,1748.44,0,1,0,451.14,start the geyser,bedroom,afternoon,fan,ON
+20.69,66.05,33.56,89.37,0,122.73,0,closed,closed,1360.25,0,0,1,179.34,it's hot,bedroom,night,window,OPEN
+37.9,75.27,53.61,17.9,0,30.86,1,open,open,1355.93,0,0,0,1273.22,close the door,living_room,afternoon,window,OPEN
+16.54,29.19,8.5,61.0,1,271.84,3,open,open,522.17,1,1,1,93.74,turn off the fan,bathroom,night,fan,ON
+18.6,72.79,24.53,23.8,0,209.09,2,closed,closed,1514.61,0,1,0,234.76,good morning,bathroom,night,fan,ON
+22.12,36.29,29.72,48.26,1,83.64,2,closed,open,841.38,0,0,0,709.21,good night,kitchen,night,light,OFF
+25.21,69.95,35.06,65.88,1,149.3,3,open,open,1024.32,0,1,0,355.83,good night,bedroom,morning,fan,ON
+32.94,25.87,78.27,12.85,0,106.39,0,open,open,1291.51,0,1,0,302.68,turn off everything,bathroom,morning,fan,ON
+35.77,65.88,87.18,36.16,1,138.71,0,closed,closed,1115.92,1,0,0,512.28,open the window,bedroom,afternoon,fan,ON
+38.86,85.41,34.03,59.27,1,271.2,3,closed,closed,1561.61,0,0,0,1180.21,turn on the light,living_room,evening,window,OPEN
+27.71,69.86,44.2,10.74,0,209.57,1,closed,closed,397.35,1,1,0,1641.17,close the door,bedroom,evening,fan,ON
+22.1,54.77,58.19,67.78,1,294.96,3,closed,open,743.64,0,0,1,872.52,I am home,living_room,evening,window,CLOSE
+35.48,81.76,66.55,75.6,0,202.42,1,open,closed,1734.95,1,0,0,1565.82,it's hot,bathroom,evening,fan,ON
+32.14,51.88,37.1,88.07,1,298.46,2,open,open,1318.67,0,0,1,1760.04,turn off the fan,living_room,evening,window,CLOSE
+33.12,63.61,90.98,47.81,1,275.98,0,open,open,1160.1,0,1,0,1144.86,open the window,living_room,morning,fan,ON
+23.24,88.5,18.43,57.34,1,283.26,0,closed,closed,907.01,0,1,1,404.99,close the door,bathroom,morning,fan,ON
+28.42,42.9,6.08,12.87,1,275.41,0,open,open,467.95,1,0,0,395.53,start the geyser,living_room,night,fan,ON
+16.28,71.44,83.61,49.97,1,100.01,3,closed,open,1856.57,1,1,0,1818.65,good morning,bathroom,evening,fan,ON
+32.42,60.69,74.0,14.45,0,52.76,0,open,open,585.59,0,0,0,878.23,close the door,bedroom,afternoon,ac,ON
+36.45,51.76,13.33,10.86,1,254.15,1,closed,closed,1434.76,1,0,1,119.52,I am home,bathroom,night,fan,ON
+19.73,75.12,98.12,49.98,0,165.59,0,open,open,1760.65,1,1,0,1897.7,close the door,bathroom,afternoon,fan,ON
+26.47,43.27,92.98,58.61,0,214.38,1,open,open,1865.75,1,1,1,526.56,good morning,kitchen,night,fan,ON
+22.64,85.07,17.45,58.0,0,24.18,3,open,open,1700.93,1,0,1,361.62,I am home,kitchen,morning,fan,ON
+30.99,72.63,40.81,38.43,0,125.51,1,closed,open,1066.08,0,0,1,293.21,close the door,bathroom,night,window,CLOSE
+19.4,25.09,51.74,73.38,0,33.22,1,open,open,1194.44,0,1,0,62.27,good night,bedroom,morning,fan,ON
+22.72,43.72,77.03,35.4,0,75.48,2,closed,closed,802.24,1,0,1,282.72,I am leaving,bathroom,afternoon,fan,ON
+25.59,46.94,9.42,75.72,0,111.9,2,open,closed,1273.42,0,0,0,929.55,I am leaving,kitchen,evening,light,OFF
+36.31,32.24,62.0,87.7,0,15.36,1,closed,open,1958.49,1,0,1,737.57,I am leaving,bathroom,evening,fan,ON
+31.37,69.45,52.17,58.16,0,49.82,1,open,open,1397.59,1,1,1,1273.43,I am leaving,living_room,night,fan,ON
+16.24,53.94,11.38,56.48,0,254.28,1,closed,open,807.98,1,1,1,935.61,I am leaving,living_room,night,fan,ON
+28.29,80.29,12.89,70.14,1,276.12,1,open,open,1970.55,1,1,1,998.28,it's hot,kitchen,evening,fan,ON
+37.59,75.35,52.07,70.32,1,238.82,2,open,open,1171.25,0,0,1,218.3,I am home,bathroom,afternoon,window,CLOSE
+39.25,22.03,16.58,40.01,1,42.38,3,closed,open,1883.81,0,0,1,52.18,good night,kitchen,morning,window,CLOSE
+21.73,78.79,70.49,34.58,0,121.26,2,open,open,1937.64,1,0,1,1144.22,I am leaving,kitchen,morning,fan,ON
+23.36,27.62,76.14,89.55,0,77.11,2,closed,closed,1139.19,0,1,1,967.83,good night,bedroom,afternoon,fan,ON
+37.17,83.78,88.96,48.86,1,193.81,1,closed,closed,361.64,0,1,0,1075.58,turn on the light,bathroom,evening,fan,ON
+31.2,53.39,68.9,88.68,0,279.15,2,closed,closed,926.14,1,1,0,1873.32,good night,bedroom,evening,fan,ON
+30.79,69.13,71.41,84.49,0,236.16,0,closed,closed,614.71,1,1,1,1573.97,turn off everything,living_room,morning,fan,ON
+18.92,47.79,23.96,29.14,1,101.69,2,closed,open,1956.3,0,0,1,609.06,turn on the light,bathroom,evening,window,CLOSE
+32.99,33.9,53.83,62.84,0,203.96,1,closed,open,1728.17,1,1,0,169.01,I am leaving,living_room,night,fan,ON
+28.11,22.92,56.19,12.14,1,54.95,3,closed,closed,503.63,0,1,1,637.13,turn on the light,bedroom,morning,fan,ON
+35.07,33.37,90.59,34.23,1,297.02,1,open,open,583.16,0,1,0,395.87,I am leaving,living_room,evening,fan,ON
+35.01,20.77,44.44,62.49,1,53.06,3,closed,closed,480.28,0,1,0,636.77,it's hot,bathroom,morning,fan,ON
+29.57,37.24,35.59,51.26,0,14.76,2,open,open,1362.8,0,0,0,1010.85,it's hot,bathroom,evening,window,OPEN
+38.95,89.84,70.74,20.77,0,221.13,0,open,open,620.88,1,0,1,591.02,turn off the fan,bathroom,evening,fan,ON
+31.59,44.75,17.19,84.82,1,280.72,3,open,open,1277.93,0,1,1,1102.05,turn off everything,living_room,afternoon,fan,ON
+33.25,30.96,50.43,26.1,1,268.1,2,open,open,1436.99,1,0,1,253.08,turn on the light,bathroom,evening,fan,ON
+29.49,52.51,43.38,28.95,0,93.81,1,closed,closed,898.82,0,1,1,911.52,I am leaving,bathroom,night,fan,ON
+17.32,26.38,44.33,58.25,1,196.03,1,open,closed,1815.25,0,1,0,385.76,it's hot,living_room,afternoon,fan,ON
+18.8,32.23,90.27,30.61,0,76.52,0,open,closed,1975.12,0,1,0,1276.15,good night,kitchen,morning,fan,ON
+29.7,42.88,7.81,51.64,0,103.48,1,open,open,476.79,1,0,0,1889.22,turn on the light,bathroom,morning,fan,ON
+32.51,21.55,6.78,12.43,0,277.2,2,open,closed,621.76,1,1,0,213.63,good morning,kitchen,afternoon,fan,ON
+32.78,77.61,68.41,79.85,1,200.23,3,closed,closed,1939.64,0,1,1,178.75,turn off everything,bedroom,afternoon,fan,ON
+33.18,51.97,43.51,84.37,0,259.89,3,open,closed,1796.18,0,1,0,1144.82,turn off the fan,bedroom,night,fan,ON
+34.66,32.77,56.39,80.0,1,245.55,2,open,open,1188.05,1,0,1,1701.98,turn off everything,kitchen,evening,fan,ON
+18.93,75.55,72.22,86.65,1,217.04,1,closed,open,313.34,1,1,1,1083.35,turn off the fan,bathroom,evening,fan,ON
+34.46,65.35,16.36,14.33,0,241.12,0,closed,open,346.4,0,0,0,1931.4,good morning,kitchen,morning,ac,ON
+29.38,77.85,81.24,76.42,0,57.53,3,closed,open,842.4,0,1,1,1454.68,turn off everything,living_room,afternoon,fan,ON
+34.76,27.09,17.58,87.54,1,221.81,3,open,closed,1523.83,0,1,1,670.92,open the window,bathroom,night,fan,ON
+17.91,28.82,32.15,13.56,1,252.74,0,open,closed,1163.18,1,0,1,341.54,turn on the light,bathroom,night,fan,ON
+29.54,68.98,97.56,82.35,0,32.02,3,open,closed,1744.89,1,1,1,863.68,good night,bedroom,evening,fan,ON
+31.48,29.99,63.52,51.99,0,133.51,1,closed,closed,466.38,1,0,0,96.2,it's hot,bathroom,night,fan,ON
+37.24,42.01,92.1,37.64,0,246.82,2,closed,closed,1548.74,1,1,0,1687.57,start the geyser,living_room,evening,fan,ON
+17.8,42.28,24.0,16.06,0,11.89,1,closed,closed,367.75,1,1,0,780.9,open the window,kitchen,night,fan,ON
+21.52,53.35,13.59,54.41,0,142.25,2,open,open,783.55,0,0,0,215.17,it's hot,bathroom,morning,ac,ON
+25.83,73.52,37.98,27.53,1,75.94,1,closed,closed,327.67,0,1,0,155.64,start the geyser,bedroom,afternoon,fan,ON
+34.53,36.31,32.78,21.86,1,95.5,0,open,open,319.89,1,1,0,1745.8,close the door,bedroom,evening,fan,ON
+23.64,26.65,86.74,12.83,1,281.8,2,closed,closed,1533.7,0,0,0,1948.14,it's hot,kitchen,night,ac,ON
+36.16,21.11,69.01,41.53,1,151.11,1,closed,closed,1186.91,0,1,0,1715.74,good morning,kitchen,afternoon,fan,ON
+24.76,20.78,49.2,75.11,1,223.93,1,closed,open,1211.92,1,0,1,770.72,I am leaving,kitchen,morning,fan,ON
+31.64,40.51,86.62,38.89,1,199.12,2,closed,open,887.3,1,0,0,890.03,good night,bedroom,morning,fan,ON
+36.0,88.76,62.43,15.51,1,68.88,1,closed,open,861.32,0,0,0,1394.71,turn off everything,living_room,afternoon,ac,ON
+26.58,39.32,38.89,44.5,1,278.8,3,closed,closed,1986.65,0,0,1,951.8,I am leaving,living_room,evening,window,OPEN
+39.46,72.5,10.99,68.12,1,154.07,0,open,open,954.07,1,0,1,135.94,turn on the light,kitchen,evening,fan,ON
+29.5,87.52,56.72,65.12,0,28.24,3,open,closed,1022.91,0,0,0,1987.14,I am leaving,kitchen,afternoon,light,OFF
+29.34,60.61,31.3,70.85,1,200.52,1,open,open,697.26,1,0,1,252.44,good morning,bedroom,evening,fan,ON
+27.96,31.85,14.38,53.74,1,155.69,3,open,open,603.41,1,0,1,27.01,turn on the light,living_room,afternoon,fan,ON
+16.88,37.16,99.95,75.74,0,27.42,0,open,closed,1011.74,1,1,1,130.24,close the door,bedroom,afternoon,fan,ON
+31.64,40.37,95.39,42.8,1,211.08,1,closed,closed,1417.89,0,1,0,805.73,open the window,kitchen,evening,fan,ON
+16.84,89.12,35.39,83.73,1,293.97,3,closed,open,1487.91,0,1,0,210.1,I am home,kitchen,night,fan,ON
+17.12,86.34,27.51,63.43,1,176.94,3,closed,closed,1934.82,1,1,1,967.28,good night,bedroom,afternoon,fan,ON
+20.03,69.34,22.63,57.34,1,294.66,2,closed,open,692.95,1,0,0,1000.43,turn off everything,bathroom,night,fan,ON
+17.88,87.64,60.76,62.92,0,187.28,3,open,open,1966.93,0,0,0,15.1,it's hot,bathroom,afternoon,window,OPEN
+30.25,63.13,99.69,82.47,1,184.7,2,closed,open,698.13,0,0,0,181.22,it's hot,kitchen,morning,ac,ON
+29.42,55.41,40.75,34.2,0,179.11,1,closed,open,1106.48,1,1,1,1575.57,turn off the fan,bedroom,night,fan,ON
+31.92,22.58,97.19,22.05,1,227.62,3,open,closed,636.9,1,1,1,1141.25,start the geyser,kitchen,night,fan,ON
+21.46,33.63,9.22,69.47,0,53.89,0,open,open,1969.27,0,0,1,671.36,I am leaving,bathroom,night,window,CLOSE
+38.42,41.85,98.2,46.89,1,153.86,2,open,open,1314.58,1,0,0,1361.05,good morning,bedroom,morning,fan,ON
+31.57,82.99,33.95,66.92,1,272.7,3,open,closed,1124.62,0,1,1,544.67,good night,kitchen,night,fan,ON
+27.83,69.51,72.48,15.36,1,295.58,2,open,closed,1985.59,1,1,0,1907.63,start the geyser,bedroom,evening,fan,ON
+17.69,52.59,83.88,73.14,0,12.1,0,closed,closed,1242.51,0,1,1,953.84,close the door,kitchen,night,fan,ON
+23.33,59.16,23.97,58.78,1,263.6,3,open,closed,1364.63,0,0,1,1835.04,I am leaving,living_room,night,window,OPEN
+21.05,54.89,77.03,40.75,1,70.2,1,closed,open,846.92,0,0,1,963.38,I am home,bedroom,morning,window,CLOSE
+35.56,26.37,66.44,83.23,1,228.52,1,closed,open,1261.86,1,0,0,584.67,turn on the light,kitchen,evening,fan,ON
+39.63,59.09,85.21,62.37,0,241.27,3,open,closed,1051.73,1,1,1,195.64,turn on the light,bathroom,night,fan,ON
+26.23,73.53,11.12,88.55,1,139.85,1,closed,closed,1945.18,1,1,0,315.83,turn off the fan,kitchen,morning,fan,ON
+34.11,85.01,35.84,40.69,1,213.34,1,open,open,729.65,0,1,0,421.32,open the window,kitchen,morning,fan,ON
+26.16,50.55,73.39,75.3,1,200.9,3,open,open,1433.1,1,1,0,1122.6,turn off the fan,bedroom,evening,fan,ON
+25.91,78.54,35.2,11.22,0,31.43,0,closed,open,1782.71,1,0,1,953.76,start the geyser,bathroom,evening,fan,ON
+25.64,45.7,67.09,11.64,0,49.33,2,open,closed,1257.46,1,1,1,510.91,close the door,bedroom,night,fan,ON
+33.06,48.51,3.81,69.79,1,59.91,2,closed,open,706.78,0,1,0,866.35,I am home,living_room,afternoon,fan,ON
+38.06,44.07,23.1,75.5,0,170.05,0,closed,open,1089.77,1,0,1,1696.26,it's hot,bathroom,afternoon,fan,ON
+25.84,78.74,20.88,54.25,1,230.84,0,open,open,893.22,1,0,1,1600.36,I am leaving,bathroom,afternoon,fan,ON
+39.6,57.76,51.42,35.66,0,127.58,1,open,closed,1834.72,0,0,0,984.69,good morning,bedroom,night,window,OPEN
+28.06,38.6,4.85,89.11,1,188.49,1,open,open,505.33,1,0,0,1433.82,I am home,bathroom,afternoon,fan,ON
+18.74,45.33,87.36,15.02,1,242.23,3,closed,closed,423.74,0,1,1,962.25,start the geyser,bathroom,night,fan,ON
+20.82,54.17,98.09,69.4,1,164.18,2,open,closed,1362.49,1,0,1,684.74,start the geyser,kitchen,night,fan,ON
+28.73,40.33,11.78,74.74,0,242.04,1,closed,open,779.65,1,1,1,1856.0,I am home,living_room,afternoon,fan,ON
+25.83,51.0,76.05,75.13,0,172.48,3,open,open,541.34,1,0,1,870.49,turn off the fan,kitchen,afternoon,fan,ON
+16.3,26.22,45.35,11.75,1,102.35,0,open,open,1968.7,0,1,1,1202.46,it's hot,bathroom,night,fan,ON
+33.24,39.24,82.12,28.52,1,142.59,3,open,closed,883.33,0,1,1,264.24,close the door,kitchen,evening,fan,ON
+34.21,33.61,12.81,55.03,1,200.07,0,open,open,752.69,0,0,1,173.18,good night,kitchen,afternoon,window,CLOSE
+24.3,59.2,65.7,50.26,1,161.78,1,closed,closed,1260.1,0,1,1,254.8,I am home,bathroom,evening,fan,ON
+22.06,34.23,90.4,54.03,0,249.68,1,closed,open,1033.07,0,0,0,866.8,open the window,kitchen,afternoon,door,UNLOCKED
+20.04,44.05,37.78,60.34,0,238.38,0,open,open,1230.3,0,1,1,1966.0,turn off the fan,living_room,morning,fan,ON
+18.2,83.3,44.53,25.61,1,34.09,3,closed,open,336.9,0,0,1,1413.01,start the geyser,living_room,evening,window,CLOSE
+16.7,53.75,7.36,26.6,0,137.2,3,closed,open,1835.52,0,0,1,1397.97,I am home,kitchen,night,window,CLOSE
+30.15,66.77,93.79,66.8,0,33.02,1,open,open,534.65,1,1,1,1797.14,turn off everything,living_room,morning,fan,ON
+24.22,65.35,91.31,18.32,0,191.52,3,closed,closed,1506.98,0,0,0,477.7,start the geyser,kitchen,evening,light,OFF
+26.57,85.05,44.16,12.2,0,205.65,2,open,open,1166.43,1,0,1,1274.89,turn off everything,bedroom,morning,fan,ON
+30.33,80.66,70.3,54.21,0,121.09,2,closed,closed,837.79,1,0,0,1736.49,I am home,bathroom,night,fan,ON
+32.05,62.91,56.31,69.26,0,12.38,3,open,open,1270.8,1,1,0,508.68,turn off the fan,living_room,evening,fan,ON
+35.28,26.93,94.68,55.09,1,203.88,2,open,open,809.9,1,1,0,690.82,I am leaving,living_room,night,fan,ON
+30.52,68.8,33.6,36.85,1,196.64,2,open,open,455.72,0,1,0,1120.66,close the door,bathroom,afternoon,fan,ON
+37.04,83.4,14.91,35.67,1,40.53,0,closed,open,947.42,1,0,1,225.18,open the window,bedroom,afternoon,fan,ON
+36.5,48.26,30.44,17.72,1,35.96,0,open,open,1576.21,1,0,1,977.52,I am home,living_room,evening,fan,ON
+28.05,89.65,92.09,82.64,0,152.55,0,open,open,1279.78,0,1,1,1807.44,it's hot,bedroom,afternoon,fan,ON
+31.81,32.89,5.06,44.63,0,101.09,2,open,closed,542.94,1,0,0,1656.25,turn off the fan,bedroom,evening,fan,ON
+24.25,53.28,8.26,79.08,0,16.68,0,closed,open,771.16,1,1,1,64.41,good night,living_room,morning,fan,ON
+30.45,60.1,63.24,61.85,1,182.33,1,open,closed,379.86,0,1,0,1261.17,it's hot,bedroom,night,fan,ON
+36.96,50.34,15.61,41.81,0,19.33,1,open,open,1622.25,0,0,0,91.56,good night,bathroom,night,window,OPEN
+21.55,38.46,51.04,83.74,1,174.13,2,closed,open,1646.88,0,1,0,915.58,close the door,living_room,evening,fan,ON
+29.15,59.84,14.81,28.57,0,219.61,2,closed,open,1307.47,1,1,1,751.15,good night,bedroom,afternoon,fan,ON
+23.04,56.24,8.93,89.46,1,189.09,3,closed,closed,982.87,1,1,1,894.84,turn off the fan,living_room,evening,fan,ON
+22.7,28.77,5.07,66.09,0,256.99,1,open,closed,489.98,1,1,1,1812.23,good morning,bedroom,morning,fan,ON
+33.73,61.03,26.18,57.77,1,55.26,3,closed,closed,645.33,0,0,0,841.86,close the door,kitchen,evening,ac,ON
+30.02,40.64,17.87,14.2,0,81.57,0,open,closed,607.74,1,0,1,856.68,I am home,bathroom,afternoon,fan,ON
+21.98,20.55,12.25,63.01,0,92.31,0,closed,closed,824.25,1,0,1,599.26,start the geyser,living_room,afternoon,fan,ON
+18.5,29.9,29.57,81.23,0,166.66,2,closed,open,1976.21,1,0,0,1770.68,good night,kitchen,morning,fan,ON
+33.38,37.56,85.07,87.52,0,251.84,0,open,open,1597.5,0,1,1,1422.36,I am home,kitchen,evening,fan,ON
+29.16,47.01,92.04,17.09,1,244.8,2,open,open,817.43,1,0,1,1774.61,turn off everything,kitchen,night,fan,ON
+30.66,80.7,39.07,83.64,1,33.08,1,closed,open,562.24,1,0,0,273.9,turn off everything,bedroom,afternoon,fan,ON
+36.74,87.24,30.21,31.94,1,170.9,1,open,open,1993.97,0,0,0,1647.35,good night,kitchen,evening,ac,ON
+18.47,71.19,71.44,16.88,0,13.39,1,open,closed,463.9,1,0,1,1206.05,open the window,kitchen,night,fan,ON
+32.42,85.2,95.62,30.86,1,12.43,3,closed,open,1589.6,0,1,1,193.69,start the geyser,bathroom,morning,fan,ON
+32.12,75.32,47.88,29.76,1,121.11,0,open,open,1494.05,0,0,1,355.94,turn on the light,living_room,evening,window,CLOSE
+24.31,80.55,98.93,84.04,1,71.36,0,closed,open,471.09,1,0,1,395.36,open the window,bathroom,night,fan,ON
+32.71,26.32,78.78,34.43,0,18.4,1,open,open,1468.27,0,0,0,1721.05,good night,kitchen,afternoon,ac,ON
+25.46,26.25,58.77,79.68,0,222.45,1,closed,open,364.86,1,1,1,102.76,turn off everything,kitchen,night,fan,ON
+23.04,35.16,70.86,53.44,0,257.02,0,open,open,1487.57,1,0,1,1349.96,it's hot,living_room,evening,fan,ON
+20.46,46.22,30.29,88.22,1,278.93,3,closed,open,1540.62,0,1,1,726.32,good night,kitchen,evening,fan,ON
+17.76,50.56,3.6,76.08,0,55.77,0,closed,open,1869.22,0,1,1,1962.81,it's hot,bathroom,morning,fan,ON
+27.83,41.9,41.49,64.38,0,143.67,3,open,open,431.13,1,0,1,486.93,open the window,bathroom,night,fan,ON
+35.53,44.44,95.43,36.95,1,247.43,3,closed,open,763.98,0,1,0,1506.81,good night,kitchen,morning,fan,ON
+33.72,65.1,92.39,39.66,1,148.16,1,open,open,1089.31,0,0,1,1502.91,close the door,living_room,night,window,CLOSE
+25.21,73.67,35.71,81.45,1,293.64,3,closed,closed,1677.74,1,0,1,811.92,close the door,kitchen,afternoon,fan,ON
+18.5,60.04,33.17,47.0,0,282.34,0,closed,closed,893.97,0,0,0,837.41,open the window,living_room,evening,light,OFF
+22.3,88.12,12.68,84.73,0,142.36,3,open,open,1105.79,0,1,0,22.52,it's hot,bathroom,morning,fan,ON
+22.74,27.17,70.95,50.04,0,248.63,2,closed,open,899.41,1,0,0,1739.53,turn off everything,living_room,morning,fan,ON
+16.08,63.44,77.28,60.18,1,266.75,0,open,closed,491.67,1,1,0,1872.54,close the door,kitchen,night,fan,ON
+35.92,86.86,96.94,42.99,0,29.26,1,closed,open,1047.17,0,1,0,1625.58,it's hot,bathroom,afternoon,fan,ON
+17.22,84.37,14.06,17.15,1,278.29,3,closed,open,565.06,1,1,0,1553.0,I am leaving,kitchen,night,fan,ON
+32.06,48.9,20.65,79.93,1,144.06,3,closed,open,595.13,0,0,0,113.74,turn off everything,bathroom,night,ac,ON
+25.26,77.09,5.52,87.58,1,41.21,2,open,closed,903.34,0,0,1,677.92,start the geyser,living_room,evening,light,ON
+36.76,30.52,52.25,76.68,1,148.74,3,closed,open,1348.43,0,1,1,241.35,good night,bedroom,evening,fan,ON
+30.73,71.36,92.73,66.83,1,87.37,2,open,closed,889.27,1,1,0,285.71,turn off the fan,bedroom,afternoon,fan,ON
+24.99,23.62,92.66,33.75,0,159.2,3,closed,closed,611.68,1,0,1,642.57,turn off the fan,bedroom,night,fan,ON
+35.91,83.32,44.64,34.58,1,25.56,0,open,closed,1771.94,0,1,0,996.15,it's hot,kitchen,afternoon,fan,ON
+30.65,56.52,48.17,57.63,1,65.31,3,closed,closed,406.4,1,1,0,1888.67,start the geyser,kitchen,night,fan,ON
+30.07,47.78,80.8,13.57,1,158.66,0,open,closed,1122.65,0,1,1,1961.33,turn on the light,kitchen,afternoon,fan,ON
+27.94,78.52,17.26,15.62,0,172.01,3,closed,open,941.4,1,1,1,1098.46,turn off the fan,bathroom,morning,fan,ON
+27.22,54.06,32.2,60.51,1,237.69,3,open,open,559.42,0,0,0,312.86,turn on the light,bathroom,night,light,OFF
+31.55,41.37,30.61,67.13,1,160.58,1,open,open,906.05,0,0,1,418.89,I am home,kitchen,morning,window,CLOSE
+23.17,41.64,60.0,10.32,1,299.44,3,closed,open,311.36,0,0,1,414.09,I am home,kitchen,morning,window,CLOSE
+32.63,33.6,10.69,28.69,1,186.53,0,closed,closed,773.85,0,1,1,62.68,open the window,bathroom,night,fan,ON
+36.35,56.98,10.95,49.34,0,208.52,3,closed,open,1494.77,1,1,1,846.4,turn off the fan,kitchen,morning,fan,ON
+39.81,64.96,34.73,80.19,1,181.07,3,open,open,731.9,1,1,0,542.18,good night,living_room,morning,fan,ON
+21.93,43.28,78.63,55.77,0,154.2,2,open,closed,763.83,1,0,1,1476.93,I am leaving,kitchen,afternoon,fan,ON
+19.35,62.65,15.03,22.36,0,106.51,3,closed,open,1809.21,1,0,0,65.76,open the window,bedroom,night,fan,ON
+16.57,84.16,2.18,79.47,1,141.47,3,open,closed,1600.77,1,0,1,580.56,it's hot,bedroom,evening,fan,ON
+25.47,54.38,6.26,47.92,0,214.37,1,closed,open,503.95,0,1,0,306.59,close the door,kitchen,afternoon,fan,ON
+39.85,60.88,65.44,48.83,1,205.31,1,closed,open,466.01,1,1,1,1946.44,I am leaving,living_room,afternoon,fan,ON
+16.01,29.32,37.19,28.77,0,107.14,0,open,closed,608.15,0,0,0,691.31,turn off everything,kitchen,afternoon,light,OFF
+28.85,49.3,61.06,66.85,0,244.93,0,closed,closed,852.39,0,0,0,421.19,turn on the light,bedroom,morning,light,OFF
+32.48,53.44,94.96,68.57,0,184.29,0,open,open,1151.15,0,1,1,1900.01,it's hot,bedroom,afternoon,fan,ON
+20.24,33.85,58.73,64.75,0,10.45,1,open,closed,1799.69,0,1,1,791.8,close the door,kitchen,evening,fan,ON
+28.17,80.63,80.89,22.69,1,42.73,2,closed,open,1161.42,0,0,0,1064.79,start the geyser,kitchen,morning,light,ON
+36.91,63.35,48.87,81.66,0,209.32,0,closed,open,571.18,0,1,1,1912.8,I am leaving,bathroom,night,fan,ON
+19.82,44.28,72.97,36.32,1,240.36,1,open,open,1220.78,1,1,1,545.05,close the door,kitchen,evening,fan,ON
+35.11,21.4,9.03,42.6,1,287.01,1,open,open,1868.31,1,1,0,145.65,open the window,kitchen,evening,fan,ON
+29.15,58.4,9.93,86.92,1,40.13,0,closed,open,966.05,0,1,1,1773.38,turn on the light,kitchen,morning,fan,ON
+25.43,69.43,56.02,16.62,0,153.79,3,open,closed,1338.97,1,0,1,1014.71,good morning,kitchen,evening,fan,ON
+17.79,42.88,74.88,61.88,1,227.35,0,open,open,1454.61,0,0,1,1260.43,turn on the light,bedroom,afternoon,window,CLOSE
+28.48,26.87,82.72,63.69,0,291.13,2,closed,open,320.35,0,0,1,1393.32,I am leaving,living_room,afternoon,window,CLOSE
+32.39,29.11,4.95,16.54,0,162.94,0,open,closed,1202.91,0,0,1,958.0,turn on the light,living_room,morning,window,OPEN
+29.18,89.93,31.13,55.27,1,107.65,1,open,closed,1560.44,1,0,0,1267.95,it's hot,bathroom,morning,fan,ON
+22.86,38.74,46.47,77.88,0,225.66,3,closed,open,1157.37,0,0,1,985.36,good night,kitchen,evening,window,CLOSE
+20.65,78.56,38.15,74.65,1,186.67,2,open,open,1087.84,0,1,0,417.3,I am home,living_room,evening,fan,ON
+32.79,26.3,32.74,42.28,0,255.6,1,open,open,1025.93,1,1,0,1155.83,I am leaving,living_room,evening,fan,ON
+23.74,53.34,12.54,46.86,0,63.53,2,open,open,1739.76,0,0,0,828.71,start the geyser,bathroom,night,window,OPEN
+32.01,27.34,59.25,13.88,1,247.28,1,closed,open,929.69,1,1,0,954.48,I am leaving,kitchen,afternoon,fan,ON
+18.96,37.27,43.25,12.42,1,67.5,0,open,closed,366.22,1,1,1,62.79,turn off everything,bedroom,morning,fan,ON
+37.27,50.2,88.05,21.31,0,131.52,1,open,closed,1855.52,1,1,0,1924.04,I am home,living_room,night,fan,ON
+38.0,63.04,68.95,64.35,1,59.47,1,open,closed,846.15,0,0,1,622.31,turn on the light,bedroom,morning,ac,ON
+27.5,63.81,16.4,25.71,0,182.97,3,open,open,1161.43,0,0,1,857.12,turn off the fan,bedroom,morning,window,CLOSE
+31.95,28.34,36.87,49.2,1,20.6,3,closed,open,344.94,0,1,1,1172.14,turn off the fan,kitchen,morning,fan,ON
+31.2,74.61,99.59,76.92,1,260.56,1,closed,closed,1891.76,1,1,0,1917.99,close the door,living_room,afternoon,fan,ON
+23.94,20.52,9.32,69.91,1,231.08,0,open,open,449.99,1,0,1,1001.08,I am leaving,bedroom,afternoon,fan,ON
+16.84,80.77,78.83,47.29,0,170.59,1,closed,open,1482.88,1,1,1,292.73,good night,bathroom,evening,fan,ON
+39.68,83.48,48.29,65.97,0,51.47,3,open,open,404.78,0,1,1,390.64,start the geyser,bedroom,evening,fan,ON
+19.57,82.34,39.01,43.88,0,151.69,0,open,closed,1470.14,0,1,0,646.96,turn on the light,bathroom,evening,fan,ON
+16.2,22.08,82.43,12.98,0,103.7,0,closed,closed,442.99,1,1,0,962.7,it's hot,bathroom,evening,fan,ON
+33.2,63.58,77.71,24.09,1,136.68,1,open,open,1027.1,0,0,1,1790.28,it's hot,kitchen,afternoon,window,CLOSE
+39.33,56.98,53.95,20.95,0,147.94,0,open,open,864.17,0,0,0,1183.17,I am leaving,bedroom,morning,ac,ON
+17.45,64.45,64.11,82.93,0,246.8,2,closed,closed,1015.58,1,1,0,263.24,turn off everything,bedroom,morning,fan,ON
+34.81,76.22,66.54,15.03,1,125.92,3,closed,closed,733.46,1,1,0,1147.26,I am home,bathroom,night,fan,ON
+33.15,60.2,16.44,84.75,0,132.25,3,closed,closed,323.53,0,0,1,1917.6,it's hot,bedroom,evening,ac,ON
+38.85,49.29,44.74,61.7,1,140.93,3,closed,closed,541.26,0,0,0,1498.14,I am home,bedroom,afternoon,ac,ON
+24.14,59.08,61.75,68.03,0,144.4,0,closed,open,1778.62,0,0,0,1660.73,I am home,kitchen,afternoon,light,OFF
+24.85,65.26,30.22,40.73,1,218.32,1,open,closed,1596.3,1,1,0,1876.43,turn off the fan,living_room,night,fan,ON
+24.23,21.31,16.96,45.04,0,88.62,3,open,open,1016.93,1,1,1,1694.13,good morning,kitchen,night,fan,ON
+35.22,40.8,7.5,10.46,1,106.92,1,open,open,1757.13,0,0,0,1956.03,turn off everything,living_room,morning,window,OPEN
+22.13,87.41,59.48,44.63,1,231.35,1,closed,closed,632.41,1,1,0,1791.82,good night,kitchen,evening,fan,ON
+33.49,36.03,26.63,72.57,0,36.06,3,open,closed,1406.14,1,0,0,1638.31,turn off the fan,bedroom,evening,fan,ON
+21.04,63.08,64.32,63.42,0,241.02,3,closed,open,454.59,0,1,0,1929.16,good night,bathroom,afternoon,fan,ON
+30.76,73.26,56.56,14.41,0,287.13,1,closed,closed,982.42,1,1,0,172.19,turn on the light,living_room,evening,fan,ON
+35.72,82.77,52.18,40.14,0,235.66,2,closed,open,1011.71,0,1,0,1346.13,close the door,kitchen,night,fan,ON
+22.8,48.56,38.38,79.59,0,285.4,0,open,open,1377.5,0,0,1,1177.89,turn off everything,bedroom,afternoon,window,CLOSE
+35.94,80.42,28.09,60.7,0,124.88,3,open,closed,662.23,0,1,1,1193.86,I am leaving,bedroom,night,fan,ON
+19.59,79.32,81.96,29.01,0,247.42,0,closed,open,1611.53,0,1,0,259.31,it's hot,living_room,morning,fan,ON
+19.16,76.17,94.71,48.84,0,248.91,3,closed,open,1566.09,0,0,0,1051.94,good morning,bathroom,afternoon,window,OPEN
+37.82,37.88,78.53,58.26,1,92.62,3,open,closed,1664.91,1,0,0,931.33,close the door,bedroom,night,fan,ON
+35.37,27.34,20.33,62.2,0,13.29,1,closed,open,1125.72,1,0,0,364.48,start the geyser,living_room,night,fan,ON
+21.61,70.09,30.66,29.38,0,63.56,1,closed,open,1140.91,1,0,1,1660.72,open the window,bathroom,morning,fan,ON
+20.11,83.11,38.74,65.97,1,207.49,3,open,closed,539.29,1,1,0,902.79,good morning,kitchen,morning,fan,ON
+37.71,71.27,79.81,81.98,1,265.15,0,closed,open,1209.16,0,0,0,285.9,open the window,living_room,evening,window,OPEN
+29.58,42.99,89.96,16.59,0,208.02,2,open,closed,1296.1,1,0,1,1297.8,start the geyser,living_room,evening,fan,ON
+35.83,23.13,11.54,77.6,1,181.64,3,closed,open,359.45,1,0,1,1993.95,open the window,living_room,evening,fan,ON
+16.55,56.5,38.22,60.0,1,263.17,1,open,open,1384.08,0,0,1,485.9,start the geyser,kitchen,evening,window,CLOSE
+35.99,43.97,63.6,42.2,1,41.05,1,open,open,1719.63,1,0,1,1586.46,I am home,kitchen,evening,fan,ON
+39.67,43.34,49.21,35.7,0,35.82,1,closed,open,1766.53,1,1,0,846.08,turn on the light,bathroom,morning,fan,ON
+20.81,45.11,16.56,76.38,1,151.28,2,closed,open,396.83,1,1,1,1672.22,turn off the fan,living_room,morning,fan,ON
+16.68,73.09,75.68,33.89,0,119.07,0,open,open,1113.18,1,0,1,1179.59,turn off everything,bedroom,evening,fan,ON
+32.55,29.9,55.32,36.69,1,23.71,3,open,open,1224.32,0,1,1,1.99,I am leaving,living_room,morning,fan,ON
+38.26,34.72,81.19,74.82,0,163.75,0,open,closed,310.35,1,1,1,1707.6,turn off everything,kitchen,night,fan,ON
+35.05,54.36,66.05,68.6,1,177.42,2,open,closed,951.21,0,0,0,1996.08,open the window,living_room,morning,ac,ON
+35.41,21.35,15.45,44.82,0,239.94,3,open,open,1760.39,1,1,1,480.12,close the door,bathroom,afternoon,fan,ON
+34.4,44.3,57.6,49.04,0,268.48,1,open,open,1687.71,0,1,0,351.96,good night,bathroom,night,fan,ON
+26.83,52.32,86.01,48.75,0,127.67,3,open,closed,940.89,0,0,1,1177.46,good night,bathroom,afternoon,light,OFF
+32.36,31.37,41.68,44.21,1,16.67,2,closed,closed,1021.2,1,0,0,1071.33,I am leaving,kitchen,night,fan,ON
+25.29,50.43,72.64,82.56,1,54.71,2,open,closed,880.33,1,0,1,24.12,it's hot,bedroom,morning,fan,ON
+33.77,49.49,36.22,27.23,1,28.72,1,closed,open,1328.14,1,0,0,1628.39,turn off the fan,bathroom,afternoon,fan,ON
+38.42,48.67,27.03,71.18,1,121.45,0,open,open,1662.15,0,0,1,1535.99,start the geyser,bathroom,evening,window,CLOSE
+37.85,57.8,3.27,67.04,0,157.5,0,open,closed,1091.06,1,1,1,1815.26,I am leaving,bedroom,morning,fan,ON
+31.82,31.7,41.94,54.24,0,106.51,3,open,open,1488.86,1,0,0,1300.85,open the window,kitchen,night,fan,ON
+19.02,24.99,49.6,47.97,1,285.34,1,open,closed,828.55,1,0,0,1930.53,turn off everything,bathroom,afternoon,fan,ON
+38.4,62.91,47.15,78.46,1,231.08,3,open,closed,557.86,1,1,1,1871.07,good morning,kitchen,evening,fan,ON
+31.25,26.89,23.1,27.09,0,211.71,2,closed,closed,1387.47,1,1,0,1430.3,close the door,living_room,evening,fan,ON
+33.84,80.45,45.55,66.1,0,85.62,3,closed,open,1665.98,0,0,0,1744.95,it's hot,living_room,morning,window,OPEN
+36.17,37.12,68.49,64.98,0,122.16,2,closed,closed,1537.55,1,0,1,1919.58,good morning,kitchen,evening,fan,ON
+16.2,72.76,75.66,34.74,1,234.65,0,closed,open,1546.96,0,1,1,1093.49,good night,living_room,night,fan,ON
+26.01,45.94,7.77,29.1,1,21.09,2,open,open,697.53,0,0,1,528.18,open the window,bathroom,morning,window,CLOSE
+19.53,80.13,1.93,78.47,1,218.14,3,open,open,1503.36,1,0,1,745.34,open the window,bathroom,evening,fan,ON
+29.58,31.65,90.33,51.24,0,171.15,1,closed,open,1011.05,1,0,0,1519.74,close the door,living_room,afternoon,fan,ON
+23.67,73.45,5.01,81.97,0,269.8,1,closed,open,1669.72,0,0,0,1210.03,I am leaving,kitchen,morning,light,OFF
+30.42,57.62,87.15,45.73,0,252.2,3,open,closed,1815.17,1,1,0,826.54,open the window,bathroom,night,fan,ON
+29.46,63.61,56.62,33.98,1,229.49,1,open,closed,1640.08,0,0,1,771.58,turn off everything,living_room,afternoon,window,OPEN
+17.36,68.69,79.1,71.51,1,125.98,1,open,open,641.73,1,0,1,307.12,turn on the light,living_room,afternoon,fan,ON
+36.08,41.24,9.57,79.7,0,170.73,2,open,open,742.46,0,0,0,56.51,it's hot,living_room,afternoon,ac,ON
+19.36,33.73,4.52,64.34,1,237.83,1,closed,open,370.92,1,0,1,1556.28,turn off everything,kitchen,morning,fan,ON
+22.07,76.45,33.71,68.06,0,143.75,1,open,open,621.59,1,1,0,697.89,good morning,kitchen,night,fan,ON
+19.56,74.41,77.22,72.99,0,205.25,0,closed,closed,476.82,1,1,1,1534.04,start the geyser,bathroom,morning,fan,ON
+34.93,67.59,60.93,58.01,1,193.12,2,open,open,1243.26,0,1,0,1620.32,turn off everything,living_room,evening,fan,ON
+16.95,76.35,66.3,55.15,0,225.58,2,open,closed,490.12,0,0,1,1013.83,turn off everything,bathroom,afternoon,fan,ON
+23.32,37.97,95.5,69.48,0,16.87,0,open,closed,1895.51,1,1,0,1971.88,good night,bathroom,evening,fan,ON
+18.33,58.47,31.47,10.85,0,223.34,3,closed,closed,766.98,0,1,1,1408.14,good morning,kitchen,night,fan,ON
+37.53,35.16,30.14,10.04,0,129.69,3,open,closed,1761.87,1,1,1,1644.61,I am home,kitchen,morning,fan,ON
+20.48,74.32,58.1,39.27,0,100.5,0,closed,closed,704.5,1,0,0,1253.28,close the door,bathroom,evening,fan,ON
+32.86,62.85,5.37,36.0,0,237.37,3,open,open,511.8,1,0,0,711.61,open the window,bedroom,evening,fan,ON
+16.85,72.99,36.11,31.9,1,167.27,3,closed,closed,913.64,1,1,0,1865.62,good night,bedroom,morning,fan,ON
+31.47,31.45,87.61,60.93,0,142.87,2,open,open,1606.2,0,1,1,421.58,good night,living_room,afternoon,fan,ON
+26.85,89.86,15.13,19.57,1,203.76,3,open,closed,1673.47,0,1,0,1925.34,it's hot,bathroom,night,fan,ON
+24.76,61.47,32.22,10.35,0,79.32,1,closed,closed,1243.27,0,1,0,459.1,close the door,kitchen,evening,fan,ON
+20.35,61.74,31.92,59.76,0,179.21,1,closed,closed,1156.93,0,1,1,319.0,good night,living_room,evening,fan,ON
+26.71,87.79,17.26,72.81,0,264.46,0,closed,open,1434.86,0,0,1,928.46,turn off everything,living_room,morning,window,CLOSE
+32.76,49.48,10.89,26.62,0,202.4,3,open,closed,917.1,0,1,1,475.91,turn on the light,bedroom,afternoon,fan,ON
+27.15,60.93,21.55,69.37,0,251.43,2,open,open,1772.25,0,0,0,1524.43,I am home,bathroom,morning,window,OPEN
+17.84,46.72,60.76,36.13,1,148.11,2,open,open,456.62,0,0,1,991.97,it's hot,kitchen,afternoon,window,CLOSE
+22.82,84.57,49.44,42.99,1,36.33,0,open,closed,852.34,0,1,0,373.05,turn off everything,kitchen,afternoon,fan,ON
+39.8,37.49,77.48,31.21,1,59.09,3,closed,closed,1575.66,1,1,1,1205.22,turn off everything,bedroom,afternoon,fan,ON
+39.96,52.87,49.17,82.61,1,92.2,1,open,open,1604.78,0,1,0,1063.63,good night,living_room,night,fan,ON
+25.37,76.88,40.45,81.75,1,291.87,0,open,closed,429.32,0,0,0,1370.47,it's hot,bedroom,evening,ac,ON
+17.52,21.79,99.67,13.09,1,265.16,3,open,closed,1076.86,0,0,1,540.53,good morning,living_room,morning,light,ON
+34.88,89.39,65.03,10.73,1,26.76,0,closed,open,489.04,1,0,0,104.63,turn on the light,bedroom,morning,fan,ON
+21.76,20.47,56.19,11.06,1,23.03,2,open,open,815.71,1,1,0,743.36,turn off everything,bedroom,night,fan,ON
+17.4,83.25,95.21,39.16,1,97.6,2,open,open,799.01,0,0,1,1762.81,open the window,bedroom,afternoon,window,CLOSE
+18.96,59.94,55.94,29.31,1,295.09,0,open,open,1237.33,0,0,0,197.13,close the door,bathroom,afternoon,window,OPEN
+26.88,58.39,13.84,85.24,1,253.17,3,open,open,1564.12,1,0,0,1870.9,close the door,bathroom,night,fan,ON
+27.72,79.93,17.45,87.18,1,137.67,3,open,closed,400.27,1,0,1,1075.61,turn off the fan,living_room,evening,fan,ON
+31.03,44.16,15.07,10.52,0,249.05,0,open,open,1948.79,0,0,1,1269.23,open the window,kitchen,morning,window,CLOSE
+36.42,24.25,77.47,79.23,0,16.9,1,closed,closed,1754.06,1,1,1,304.11,it's hot,bedroom,evening,fan,ON
+29.46,44.36,78.95,25.45,0,24.4,2,open,open,535.57,0,0,1,1566.76,open the window,bathroom,afternoon,window,CLOSE
+32.4,27.94,24.37,58.57,0,178.35,1,open,open,1892.52,1,1,1,1427.9,turn off everything,bathroom,afternoon,fan,ON
+25.52,42.67,37.42,72.8,1,156.08,3,open,closed,710.14,0,0,0,17.19,close the door,living_room,afternoon,light,ON
+26.65,66.97,44.13,69.05,0,244.3,0,closed,open,894.29,0,1,1,126.31,I am home,bathroom,evening,fan,ON
+20.98,43.01,75.84,17.6,0,272.27,1,open,closed,750.63,1,0,0,1797.01,turn off the fan,living_room,morning,fan,ON
+30.73,39.55,8.01,58.29,0,108.02,0,closed,closed,1669.29,1,0,0,1214.73,it's hot,bedroom,evening,fan,ON
+32.07,20.4,90.68,57.43,0,155.08,1,open,open,1017.06,0,0,1,633.68,start the geyser,living_room,morning,window,CLOSE
+20.18,41.32,25.95,41.13,1,159.37,3,open,closed,848.28,1,0,1,1123.39,good night,bathroom,night,fan,ON
+27.02,86.08,86.47,85.33,1,13.15,2,open,open,1390.01,1,1,1,1390.12,open the window,kitchen,night,fan,ON
+17.11,22.76,84.83,10.5,0,231.51,0,closed,open,1416.31,1,0,0,974.53,it's hot,bedroom,evening,fan,ON
+31.53,75.48,3.19,34.31,0,69.12,3,closed,open,1996.71,1,0,0,624.82,I am leaving,bedroom,morning,fan,ON
+17.01,42.4,61.46,15.8,0,77.11,1,closed,open,1144.33,0,1,1,1386.55,turn on the light,bathroom,night,fan,ON
+29.57,88.47,20.41,10.02,1,193.8,2,closed,open,1312.86,0,0,0,1717.66,good night,bathroom,morning,window,OPEN
+20.75,81.03,94.45,51.77,1,44.33,1,open,open,1810.35,0,1,1,851.71,turn on the light,living_room,afternoon,fan,ON
+25.44,49.92,79.41,55.82,0,255.2,2,closed,closed,1679.23,1,1,0,1627.58,start the geyser,living_room,morning,fan,ON
+29.29,24.56,10.34,62.4,0,54.58,0,closed,closed,1350.88,1,1,1,1748.73,good morning,bedroom,afternoon,fan,ON
+19.5,45.22,2.65,63.13,1,107.37,3,closed,closed,1943.09,1,1,1,1741.48,turn on the light,kitchen,morning,fan,ON
+39.95,37.28,36.3,70.6,1,97.67,3,closed,closed,675.25,0,0,0,1995.87,close the door,living_room,evening,ac,ON
+31.97,70.09,62.95,38.93,0,228.7,2,closed,open,1491.6,1,1,1,817.42,I am home,bathroom,morning,fan,ON
+21.92,61.95,81.8,60.46,1,182.85,2,open,closed,796.09,0,0,0,286.24,good night,bathroom,night,light,OFF
+23.81,60.01,91.43,12.32,0,119.72,0,open,closed,1986.75,1,1,1,1015.11,turn on the light,kitchen,morning,fan,ON
+29.98,43.95,13.71,56.97,0,64.83,1,closed,closed,1831.31,1,1,0,1211.58,I am leaving,bathroom,evening,fan,ON
+35.11,39.55,95.11,88.7,1,141.3,2,closed,open,993.2,0,1,0,1320.82,it's hot,kitchen,evening,fan,ON
+38.81,82.96,10.64,84.4,0,190.73,3,closed,open,576.62,1,0,0,872.34,turn off the fan,bathroom,morning,fan,ON
+26.3,55.57,83.81,29.44,1,219.51,1,closed,closed,1879.63,0,1,1,38.01,good night,bedroom,evening,fan,ON
+19.63,40.21,28.45,28.34,1,297.91,1,closed,open,1342.21,0,0,1,860.55,turn on the light,kitchen,evening,window,CLOSE
+26.84,54.36,29.5,14.42,1,281.42,3,open,closed,1828.78,1,0,1,1014.53,close the door,bathroom,night,fan,ON
+32.48,61.73,67.19,32.34,1,221.4,3,open,closed,1030.95,1,0,0,1199.09,start the geyser,bathroom,afternoon,fan,ON
+21.46,78.31,67.66,17.14,0,79.49,3,open,open,1908.3,0,0,0,488.07,it's hot,bathroom,afternoon,window,OPEN
+19.0,36.81,20.91,76.66,1,211.5,3,closed,closed,1026.83,1,0,0,957.36,start the geyser,bedroom,evening,fan,ON
+28.32,40.87,17.25,17.98,0,210.11,3,open,open,1850.47,0,1,1,618.39,good morning,living_room,afternoon,fan,ON
+26.0,35.07,49.33,57.16,0,46.0,1,closed,closed,1686.79,1,1,1,617.33,good morning,bedroom,morning,fan,ON
+33.35,87.94,86.35,83.93,1,34.56,2,open,open,474.31,0,0,0,207.55,turn off the fan,bedroom,night,ac,ON
+16.98,20.11,23.62,34.31,0,46.46,0,open,closed,1541.77,1,1,1,1742.66,turn off the fan,kitchen,evening,fan,ON
+33.1,81.01,85.89,34.46,1,113.94,2,open,closed,1043.9,0,1,1,1994.01,start the geyser,bedroom,evening,fan,ON
+24.09,83.75,77.76,69.51,0,200.61,1,open,closed,998.84,1,0,0,1374.63,open the window,living_room,night,fan,ON
+19.25,25.22,57.4,87.24,0,43.19,2,closed,closed,1398.11,1,0,0,1368.7,I am leaving,living_room,evening,fan,ON
+37.63,47.66,22.39,41.25,1,283.12,3,closed,closed,1960.27,1,1,1,478.56,good morning,living_room,evening,fan,ON
+35.89,62.4,5.67,32.58,1,95.66,0,closed,open,1084.33,0,0,1,1491.87,turn on the light,living_room,evening,window,CLOSE
+22.63,40.63,4.22,30.87,0,202.0,1,open,open,397.87,1,1,0,1965.69,I am leaving,bedroom,morning,fan,ON
+27.98,77.63,57.67,26.84,0,294.79,3,open,open,1351.85,1,1,0,970.97,open the window,bathroom,morning,fan,ON
+25.64,46.89,48.97,15.87,0,177.01,0,open,closed,1338.14,1,1,0,5.06,good morning,bathroom,evening,fan,ON
+38.67,25.1,32.63,12.6,0,51.52,1,open,open,930.11,0,1,0,3.8,close the door,bathroom,morning,fan,ON
+35.12,63.92,87.39,30.94,1,122.32,2,open,open,743.83,1,0,0,1641.96,I am leaving,bathroom,afternoon,fan,ON
+20.17,55.3,41.93,80.24,1,12.45,1,closed,closed,1165.68,1,1,0,682.88,open the window,bedroom,afternoon,fan,ON
+26.03,84.27,26.7,21.65,1,176.37,1,open,closed,1474.71,1,0,1,472.92,close the door,bathroom,evening,fan,ON
+38.24,21.04,92.24,41.6,1,165.94,2,open,closed,1448.17,0,1,0,825.53,good morning,bedroom,night,fan,ON
+39.35,80.95,77.79,44.51,0,162.98,0,closed,closed,1061.11,1,0,0,1387.45,close the door,bedroom,afternoon,fan,ON
+31.42,38.62,61.42,49.78,1,162.49,0,open,open,1800.63,0,1,0,55.06,open the window,living_room,morning,fan,ON
+33.64,27.29,33.99,33.54,0,134.2,1,open,closed,696.79,1,0,0,1624.3,I am leaving,bedroom,night,fan,ON
+30.93,55.1,87.49,18.7,1,233.93,1,open,open,1931.4,0,1,0,1154.97,turn on the light,living_room,afternoon,fan,ON
+28.67,77.83,86.89,29.57,0,67.02,2,closed,closed,1964.08,0,0,0,1137.79,I am leaving,bedroom,afternoon,window,OPEN
+27.37,27.68,95.18,31.35,1,149.34,3,open,closed,1791.88,0,1,1,219.4,turn off everything,living_room,evening,fan,ON
+19.78,58.93,2.43,39.27,1,172.28,3,closed,open,848.12,1,1,0,1568.99,turn off everything,kitchen,night,fan,ON
+16.27,72.76,77.67,77.89,0,123.15,3,closed,open,515.22,1,1,0,216.02,turn on the light,kitchen,morning,fan,ON
+30.29,78.61,91.73,88.3,1,238.02,3,closed,closed,639.97,0,1,0,806.2,turn off the fan,living_room,afternoon,fan,ON
+26.38,30.66,33.8,66.31,0,262.71,0,open,closed,626.22,0,0,1,1057.76,open the window,kitchen,night,light,OFF
+27.09,35.97,60.56,80.91,0,46.71,2,open,closed,762.92,0,0,1,1787.48,good night,living_room,afternoon,light,OFF
+39.0,24.88,94.61,13.81,1,248.29,3,open,open,1752.4,0,1,0,1550.7,turn off the fan,living_room,afternoon,fan,ON
+20.43,24.38,92.8,15.98,0,290.72,1,open,closed,1233.16,1,1,0,1405.15,I am home,bathroom,morning,fan,ON
+33.97,79.94,78.24,14.61,1,46.78,2,closed,open,1644.19,1,0,1,748.4,it's hot,bathroom,evening,fan,ON
+28.68,31.09,65.28,13.6,1,237.3,3,closed,open,1058.58,0,0,0,496.31,good night,kitchen,afternoon,light,OFF
+28.29,50.16,64.94,61.77,1,116.85,3,open,open,1352.08,0,0,0,1696.58,open the window,bedroom,morning,window,OPEN
+34.55,74.51,45.53,11.65,1,95.96,1,closed,closed,394.54,1,0,0,691.2,close the door,living_room,night,fan,ON
+38.1,71.2,96.17,72.6,1,191.75,2,open,open,1819.5,0,0,1,896.6,I am leaving,living_room,night,window,CLOSE
+31.93,87.42,76.31,29.96,0,170.68,0,closed,closed,1650.69,0,1,1,282.56,good morning,kitchen,evening,fan,ON
+28.86,63.33,97.14,71.07,1,160.41,1,open,open,1668.97,0,0,0,1788.44,it's hot,bathroom,morning,window,OPEN
+18.8,61.46,74.84,86.83,1,20.64,1,open,closed,1048.68,1,1,1,1991.59,I am home,living_room,morning,fan,ON
+18.41,89.59,21.32,26.08,0,279.45,3,closed,open,657.73,1,1,0,1650.35,open the window,kitchen,afternoon,fan,ON
+17.57,64.68,89.68,51.73,1,52.75,1,closed,closed,481.29,1,0,1,1995.35,good morning,living_room,morning,fan,ON
+22.9,22.36,84.33,89.31,0,42.44,3,closed,closed,510.35,0,1,0,1565.6,turn on the light,bedroom,afternoon,fan,ON
+21.27,88.3,30.25,15.2,0,214.46,3,open,closed,1860.16,0,0,0,62.67,start the geyser,kitchen,evening,window,UNLOCKED
+34.7,83.42,91.77,61.76,0,154.74,2,open,open,1773.78,1,1,1,1643.11,turn off the fan,bathroom,afternoon,fan,ON
+17.94,74.01,14.51,73.14,0,48.48,0,closed,open,728.18,0,1,1,1718.3,turn on the light,bathroom,afternoon,fan,ON
+26.35,68.8,61.0,37.85,1,195.56,3,open,open,1603.21,0,1,0,1119.94,start the geyser,bedroom,night,fan,ON
+25.43,58.45,33.86,33.6,1,131.79,0,open,closed,1115.52,1,0,0,1388.22,turn on the light,kitchen,afternoon,fan,ON
+19.69,24.72,36.31,34.86,1,16.29,0,closed,open,1435.59,0,0,0,1861.18,turn off everything,bedroom,night,window,OPEN
+16.75,48.38,71.68,80.74,1,271.77,3,closed,closed,1781.97,1,1,0,590.01,start the geyser,living_room,evening,fan,ON
+22.56,33.17,11.4,38.44,1,178.25,3,open,closed,1285.45,0,1,0,175.51,good morning,bedroom,afternoon,fan,ON
+39.27,38.37,70.35,60.56,1,30.15,3,closed,closed,589.16,0,1,1,93.63,turn on the light,living_room,morning,fan,ON
+16.52,84.48,15.98,41.05,0,154.29,2,closed,closed,1093.77,0,0,1,1513.23,it's hot,living_room,morning,ac,ON
+32.73,63.78,38.18,14.13,1,184.29,0,open,open,1962.18,1,0,1,1548.54,good morning,kitchen,evening,fan,ON
+28.11,67.56,6.23,82.85,1,282.01,0,closed,open,1517.98,1,0,1,643.32,start the geyser,bathroom,morning,fan,ON
+27.65,82.01,5.91,34.63,1,45.88,2,open,open,1733.48,0,0,0,686.86,open the window,kitchen,morning,light,ON
+36.59,83.89,16.01,74.74,1,27.56,2,open,open,1551.7,1,0,1,921.26,start the geyser,kitchen,morning,fan,ON
+35.94,37.9,24.02,83.33,1,31.59,2,closed,open,1215.8,1,1,0,1445.74,turn off the fan,living_room,afternoon,fan,ON
+17.74,27.18,17.97,66.31,1,191.1,3,closed,closed,615.98,1,0,1,312.08,good morning,kitchen,afternoon,fan,ON
+18.71,55.83,56.24,79.08,0,273.52,3,closed,closed,1239.22,1,0,1,673.49,turn on the light,living_room,morning,fan,ON
+39.7,87.16,22.96,67.1,0,62.05,0,closed,open,1117.27,1,0,0,1883.07,turn off the fan,living_room,evening,fan,ON
+33.45,84.38,87.62,19.97,1,261.28,0,closed,open,1702.8,0,1,1,1482.18,close the door,living_room,afternoon,fan,ON
+37.8,43.47,35.01,30.43,0,137.21,1,open,closed,520.16,0,1,1,760.85,good morning,kitchen,evening,fan,ON
+24.95,30.16,57.48,75.75,1,236.16,1,closed,open,1350.21,1,0,0,258.32,good night,kitchen,night,fan,ON
+35.54,47.39,92.16,23.61,0,81.92,0,closed,closed,415.35,0,0,0,235.6,good night,bedroom,afternoon,ac,ON
+34.48,78.33,59.04,16.27,1,110.26,0,closed,open,529.72,1,1,1,720.2,I am home,living_room,night,fan,ON
+18.82,51.42,18.06,36.29,0,172.56,2,open,open,865.26,0,0,0,1433.41,turn on the light,living_room,morning,fan,LOCKED
+33.27,55.36,45.5,42.25,1,154.63,3,open,open,1112.16,1,1,0,429.68,I am leaving,living_room,evening,fan,ON
+37.46,70.24,38.13,45.01,0,218.1,1,closed,open,1516.63,1,1,0,155.79,open the window,bathroom,morning,fan,ON
+29.4,40.9,99.22,40.82,0,32.63,2,closed,closed,410.47,1,1,0,216.7,turn off everything,bathroom,afternoon,fan,ON
+37.44,63.96,1.33,54.03,1,268.02,0,open,closed,1781.34,1,1,0,940.83,turn on the light,bathroom,morning,fan,ON
+23.23,45.12,81.96,46.21,0,158.54,3,open,open,1830.53,1,1,0,1626.66,close the door,bedroom,night,fan,ON
+24.78,43.45,44.55,24.01,1,43.34,1,open,closed,1723.15,0,0,0,627.3,turn off everything,bedroom,evening,window,OPEN
+29.32,59.26,36.17,32.23,1,253.16,1,open,closed,1128.72,0,0,0,666.47,turn off everything,bathroom,night,light,OFF
+33.58,39.16,78.3,61.61,1,13.63,3,open,open,640.91,1,1,0,1496.91,it's hot,bathroom,night,fan,ON
+25.41,80.91,52.43,31.54,0,226.55,0,closed,open,838.05,1,0,1,748.34,good morning,living_room,afternoon,fan,ON
+18.6,29.23,44.78,82.41,0,39.0,3,closed,open,613.88,0,1,1,1502.54,turn off the fan,bedroom,afternoon,fan,ON
+28.62,28.9,79.53,21.97,1,44.35,3,open,closed,1996.48,1,1,1,426.28,it's hot,living_room,evening,fan,ON
+21.6,87.19,60.93,82.02,1,292.69,0,open,closed,500.94,0,1,0,1116.33,turn on the light,living_room,morning,fan,ON
+30.94,66.03,90.73,15.58,0,34.5,0,closed,closed,724.38,0,0,1,559.65,I am leaving,kitchen,morning,ac,ON
+24.97,87.73,9.04,82.35,0,77.23,0,open,open,807.5,1,1,0,976.37,turn off everything,bathroom,night,fan,ON
+30.4,64.63,98.97,73.41,0,22.07,2,open,closed,1088.44,0,1,0,8.99,turn off everything,living_room,evening,fan,ON
+28.16,59.77,71.97,77.07,1,243.51,2,open,closed,1100.76,0,0,1,1413.04,I am leaving,bathroom,evening,light,OFF
+20.51,55.08,20.61,23.82,0,120.8,1,open,open,1372.66,1,1,0,746.9,start the geyser,bedroom,afternoon,fan,ON
+22.69,59.61,82.47,54.99,0,104.88,2,closed,closed,682.85,0,1,1,994.59,it's hot,kitchen,evening,fan,ON
+37.99,33.21,70.17,75.78,1,131.13,2,closed,closed,1578.09,1,0,1,1804.81,close the door,kitchen,evening,fan,ON
+38.06,22.87,76.57,85.86,1,127.29,2,closed,open,612.66,1,0,0,492.28,close the door,living_room,night,fan,ON
+29.74,26.72,21.48,79.68,1,216.9,2,closed,closed,442.08,0,1,1,434.16,turn off the fan,living_room,night,fan,ON
+39.49,25.09,15.62,11.23,1,54.04,3,open,closed,1768.37,1,0,0,34.3,I am leaving,bedroom,morning,fan,ON
+31.26,44.69,86.23,37.22,1,261.86,0,open,open,772.17,0,0,0,1417.5,I am home,living_room,evening,ac,ON
+36.43,60.45,71.52,60.36,0,87.48,0,closed,closed,548.71,1,0,1,518.64,it's hot,living_room,evening,fan,ON
+39.47,59.37,69.49,20.52,0,183.1,2,closed,open,1502.82,1,1,1,997.37,turn off everything,living_room,night,fan,ON
+25.63,33.03,45.32,19.95,1,187.53,3,closed,open,447.71,0,1,1,810.04,good night,living_room,night,fan,ON
+22.26,52.05,93.28,44.03,1,183.68,3,open,closed,1831.66,0,0,0,1113.14,turn on the light,kitchen,morning,light,ON
+21.01,64.13,62.67,14.8,1,247.53,3,closed,open,804.68,1,0,0,318.83,it's hot,kitchen,night,fan,ON
+20.57,89.9,50.69,26.46,1,158.95,3,open,closed,468.86,1,0,1,318.82,turn on the light,bathroom,afternoon,fan,ON
+26.69,86.03,55.09,71.93,0,75.92,3,closed,open,362.12,1,0,0,959.4,turn off the fan,kitchen,night,fan,ON
+31.89,57.58,61.09,26.91,1,259.43,1,open,closed,420.97,1,1,1,1554.33,I am leaving,living_room,evening,fan,ON
+19.86,48.83,1.35,45.59,1,176.99,1,open,closed,677.16,1,0,0,750.07,close the door,bathroom,night,fan,ON
+19.48,43.08,95.26,48.69,1,237.06,3,open,closed,1742.1,0,1,0,1010.76,turn on the light,bathroom,night,fan,ON
+22.87,79.72,24.19,36.5,1,70.75,0,closed,closed,398.66,0,0,1,209.47,close the door,bathroom,evening,light,ON
+37.62,41.03,69.88,50.05,1,102.9,3,open,open,1009.21,1,1,0,1888.61,it's hot,kitchen,evening,fan,ON
+16.54,68.7,20.61,76.39,1,175.15,0,open,open,494.71,1,1,0,258.61,good night,living_room,afternoon,fan,ON
+26.85,87.09,52.7,74.63,1,213.06,0,closed,closed,1634.63,0,1,1,657.8,good morning,bedroom,afternoon,fan,ON
+23.95,72.44,17.62,17.06,1,56.67,3,open,open,994.96,1,1,1,611.54,start the geyser,kitchen,afternoon,fan,ON
+39.37,22.88,38.3,56.18,0,183.79,1,open,open,1322.19,0,0,0,1961.86,turn off everything,kitchen,evening,ac,ON
+18.02,25.32,16.17,17.31,1,120.38,1,open,closed,878.67,0,1,1,701.09,turn off everything,kitchen,morning,fan,ON
+35.15,51.72,35.32,60.8,0,178.12,0,closed,closed,1303.8,0,1,1,1436.5,close the door,living_room,night,fan,ON
+39.56,70.63,61.74,20.2,0,47.89,2,open,open,324.69,1,1,0,1528.72,I am home,kitchen,afternoon,fan,ON
+37.31,50.54,88.77,49.1,1,91.28,0,closed,closed,361.99,0,0,0,1932.04,good night,bathroom,afternoon,ac,ON
+36.72,57.39,20.14,88.58,1,39.46,1,open,open,1604.04,1,0,1,1552.15,turn off everything,living_room,evening,fan,ON
+33.73,75.43,0.72,43.14,1,230.41,2,closed,open,569.01,0,1,1,79.18,turn off the fan,bathroom,night,fan,ON
+34.11,56.62,45.82,58.82,0,194.63,0,open,closed,746.63,1,1,0,516.36,open the window,bedroom,afternoon,fan,ON
+22.23,53.75,37.75,34.48,0,207.74,2,open,open,1666.97,0,0,1,294.18,open the window,bedroom,afternoon,window,CLOSE
+22.11,49.6,74.42,78.64,1,230.0,1,open,closed,627.51,1,1,1,569.66,turn on the light,bathroom,morning,fan,ON
+37.61,49.86,26.35,80.28,0,169.18,1,closed,closed,1585.9,1,1,0,933.6,turn off the fan,kitchen,morning,fan,ON
+29.52,86.52,5.96,31.6,0,117.13,3,closed,open,1569.49,1,1,1,704.77,good night,bedroom,afternoon,fan,ON
+37.12,65.81,95.82,74.78,0,143.24,2,open,closed,825.67,1,0,1,356.67,I am home,living_room,afternoon,fan,ON
+22.38,37.49,91.59,32.68,1,77.7,3,closed,open,540.43,1,1,1,450.03,turn on the light,living_room,evening,fan,ON
+24.44,72.3,94.87,12.22,1,87.93,3,open,closed,1095.31,0,0,1,1388.12,it's hot,living_room,evening,ac,ON
+34.82,48.41,59.04,11.25,1,145.15,0,open,open,1753.14,0,1,0,1860.08,I am home,kitchen,morning,fan,ON
+21.08,29.11,18.5,24.31,1,199.82,1,closed,open,313.64,0,1,1,1270.84,close the door,bedroom,morning,fan,ON
+36.82,32.93,33.2,36.11,1,204.81,3,open,closed,641.08,1,1,1,150.22,close the door,kitchen,evening,fan,ON
+28.6,89.33,64.48,13.29,0,257.33,0,closed,open,1320.7,0,1,0,167.24,start the geyser,bedroom,evening,fan,ON
+39.02,84.45,23.55,12.64,1,196.76,1,open,closed,1039.51,0,0,0,1212.36,turn off everything,bathroom,morning,ac,ON
+24.35,61.66,59.13,44.86,1,217.37,3,closed,closed,664.37,0,0,0,1668.58,good morning,bedroom,afternoon,light,ON
+17.33,36.57,14.57,26.18,1,276.42,3,closed,closed,825.31,0,1,1,573.67,turn off the fan,bedroom,morning,fan,ON
+23.18,81.34,1.16,46.44,1,94.39,3,open,open,783.3,1,1,1,1291.76,turn off the fan,bathroom,morning,fan,ON
+37.27,64.06,1.25,47.62,0,193.75,2,open,closed,1854.84,0,0,1,195.64,open the window,bathroom,afternoon,window,OPEN
+36.28,38.72,72.4,56.11,1,249.67,1,open,closed,834.34,0,1,0,476.67,close the door,kitchen,evening,fan,ON
+17.4,75.31,37.34,66.08,0,296.92,2,open,closed,487.76,1,1,0,1548.58,I am home,living_room,afternoon,fan,ON
+37.23,79.78,97.72,88.21,1,297.67,3,open,open,428.18,1,0,0,613.32,turn off the fan,living_room,evening,fan,ON
+24.1,51.96,4.82,35.1,1,299.74,0,closed,open,1841.63,0,1,1,258.43,good night,kitchen,night,fan,ON
+38.18,76.54,7.45,56.5,1,160.7,3,open,closed,767.5,0,1,1,1043.53,open the window,bedroom,night,fan,ON
+25.59,53.99,82.75,14.08,1,142.54,3,open,open,1521.33,1,0,1,1955.26,turn on the light,living_room,evening,fan,ON
+34.62,34.61,7.91,60.51,1,136.61,1,closed,closed,1634.61,1,1,1,955.16,good night,bathroom,afternoon,fan,ON
+39.59,41.88,20.25,66.76,1,74.21,3,closed,open,1317.05,0,1,1,1660.3,turn off the fan,kitchen,afternoon,fan,ON
+38.96,58.92,87.2,67.6,1,191.89,2,closed,open,1470.1,0,1,1,1984.0,turn off the fan,bedroom,morning,fan,ON
+26.33,43.02,58.28,27.08,0,227.07,3,closed,closed,1959.58,1,1,1,1808.14,turn on the light,living_room,evening,fan,ON
+39.25,56.66,49.23,10.01,0,17.68,2,closed,closed,387.38,1,0,0,1062.87,turn off everything,bathroom,night,fan,ON
+39.81,36.62,88.11,48.6,1,136.98,1,closed,closed,1132.15,1,1,0,403.24,good night,kitchen,morning,fan,ON
+19.54,32.18,72.69,36.13,1,204.23,1,closed,closed,1336.01,1,1,0,1227.05,turn on the light,kitchen,afternoon,fan,ON
+31.81,49.25,80.9,19.96,1,284.9,1,open,closed,1556.67,1,0,0,295.41,start the geyser,bathroom,afternoon,fan,ON
+26.77,75.82,31.73,41.63,1,208.29,2,open,open,1889.76,0,1,1,1472.11,open the window,living_room,morning,fan,ON
+36.54,54.39,96.61,30.55,1,262.03,1,open,open,1995.16,1,1,1,1303.1,open the window,kitchen,evening,fan,ON
+18.44,74.8,10.59,19.43,0,73.15,2,open,closed,854.11,1,1,1,1312.55,open the window,kitchen,morning,fan,ON
+19.34,89.02,76.75,49.11,0,254.19,2,open,closed,1341.83,1,0,1,608.0,good morning,bathroom,morning,fan,ON
+24.91,84.32,53.45,29.76,1,207.22,0,closed,closed,1867.16,0,0,1,1758.56,good morning,living_room,evening,window,OPEN
+33.84,87.78,38.33,24.25,0,196.98,3,open,open,1130.26,1,0,1,1096.69,turn off everything,living_room,night,fan,ON
+24.09,63.91,27.56,70.62,1,224.85,1,open,open,953.16,1,0,0,325.66,I am home,living_room,night,fan,ON
+16.53,49.87,94.64,52.33,1,243.61,2,open,closed,806.77,1,0,1,985.94,turn off the fan,kitchen,night,fan,ON
+37.78,38.59,23.06,87.57,1,142.16,3,closed,closed,1982.49,1,1,0,785.86,it's hot,bathroom,morning,fan,ON
+17.83,37.62,13.11,43.5,1,47.59,0,closed,closed,655.01,1,1,1,406.06,good night,bedroom,evening,fan,ON
+23.21,79.85,57.96,42.89,0,285.43,1,open,open,1030.47,0,0,0,26.63,open the window,bathroom,evening,camera,STANDBY
+28.64,89.95,29.0,23.38,0,97.91,1,closed,closed,1216.0,0,0,1,1728.58,I am home,living_room,night,window,OPEN
+25.57,61.52,59.25,49.39,0,27.25,2,open,open,700.19,0,1,1,1957.32,close the door,living_room,evening,fan,ON
+25.86,75.8,57.77,41.18,0,137.6,3,open,open,401.81,0,0,1,135.11,close the door,bedroom,afternoon,window,CLOSE
+38.2,52.85,11.31,28.71,1,263.27,2,closed,open,885.49,1,0,0,1932.47,open the window,kitchen,evening,fan,ON
+23.98,71.19,17.61,84.65,1,145.46,3,closed,closed,329.52,1,0,1,618.64,turn off everything,bathroom,afternoon,fan,ON
+25.96,37.37,40.47,83.45,0,242.43,1,open,open,432.17,1,0,0,625.07,good night,living_room,night,fan,ON
+22.63,50.42,6.68,37.65,1,250.78,3,closed,closed,1990.32,0,1,1,184.18,it's hot,bedroom,night,fan,ON
+31.27,33.15,42.74,63.27,0,175.27,3,closed,open,1019.26,1,1,1,625.38,I am leaving,living_room,evening,fan,ON
+36.21,73.69,5.15,27.15,0,211.37,0,closed,open,384.66,0,1,0,1933.32,open the window,kitchen,morning,fan,ON
+38.63,35.08,85.47,24.14,1,202.49,1,closed,closed,821.3,0,0,0,1952.9,it's hot,living_room,night,ac,ON
+27.95,20.64,54.83,77.81,1,63.96,1,closed,open,535.78,0,0,1,1960.89,start the geyser,bedroom,morning,window,CLOSE
+39.0,61.69,12.64,16.14,1,282.26,1,closed,closed,698.58,0,0,1,566.63,turn on the light,living_room,morning,ac,ON
+29.14,80.11,51.93,83.82,0,230.68,3,closed,open,811.97,0,1,1,1754.72,close the door,bedroom,night,fan,ON
+38.54,37.79,27.06,53.15,1,262.11,2,open,closed,815.64,0,0,0,1085.05,I am leaving,kitchen,afternoon,ac,ON
+27.4,23.17,35.27,82.09,1,47.36,2,closed,open,605.84,0,1,1,722.41,turn off the fan,bedroom,afternoon,fan,ON
+35.06,27.32,47.82,77.96,0,287.68,3,open,open,623.81,0,0,1,419.52,turn off everything,bedroom,evening,window,CLOSE
+19.56,58.19,27.55,23.3,0,245.35,0,open,closed,337.11,0,1,1,673.74,turn off everything,bedroom,evening,fan,ON
+25.3,65.03,70.17,39.46,0,222.53,2,open,open,1054.3,1,0,0,701.99,turn on the light,living_room,morning,fan,ON
+22.7,37.07,11.09,10.72,1,156.6,3,open,open,1302.29,0,1,0,589.44,I am home,kitchen,evening,fan,ON
+21.22,47.57,79.37,35.55,1,97.98,0,open,open,1647.53,1,0,0,788.65,good night,bedroom,evening,fan,ON
+34.24,47.62,91.55,29.64,1,32.41,1,closed,open,1415.29,0,1,0,1746.73,good morning,kitchen,night,fan,ON
+34.51,37.89,59.14,46.9,1,67.94,2,open,closed,1929.11,1,1,1,355.1,good night,bedroom,afternoon,fan,ON
+39.91,58.62,24.56,85.34,1,35.27,0,closed,open,1679.65,0,0,1,5.9,I am leaving,bathroom,evening,window,CLOSE
+21.22,52.28,73.98,69.77,0,57.87,0,closed,open,1908.57,1,0,1,1841.42,it's hot,bedroom,afternoon,fan,ON
+16.35,70.43,7.44,68.51,0,284.34,3,open,open,1586.59,1,0,0,1218.49,close the door,kitchen,morning,fan,ON
+18.63,27.89,61.4,42.95,0,201.45,0,closed,open,1436.85,1,1,0,607.84,close the door,bedroom,evening,fan,ON
+30.67,48.8,35.3,51.62,1,52.89,0,open,open,1616.33,1,1,1,1855.92,close the door,kitchen,night,fan,ON
+23.99,78.22,89.08,84.83,1,22.83,1,open,closed,1972.17,1,1,0,1522.66,good night,bedroom,night,fan,ON
+35.94,86.48,64.29,39.56,1,220.15,3,closed,closed,855.59,1,1,1,876.67,start the geyser,kitchen,afternoon,fan,ON
+25.65,32.36,80.85,67.82,0,53.84,3,closed,closed,1414.15,0,0,0,1412.48,close the door,bedroom,afternoon,window,OPEN
+38.19,60.45,89.04,74.77,0,97.0,1,open,closed,1615.66,0,0,0,1852.08,open the window,living_room,afternoon,window,OPEN
+22.33,29.04,12.5,44.71,0,112.1,1,closed,open,1675.51,0,1,0,79.65,open the window,bathroom,night,fan,ON
+16.19,24.22,8.27,84.46,0,115.24,1,open,open,1866.8,1,1,0,1090.46,good night,bathroom,afternoon,fan,ON
+17.4,84.71,72.44,39.34,0,275.86,3,closed,open,719.27,0,1,0,503.31,I am leaving,living_room,afternoon,fan,ON
+24.97,60.12,59.05,54.98,0,255.31,0,closed,closed,888.34,0,0,1,605.96,open the window,kitchen,night,light,OFF
+27.99,64.67,6.47,62.13,0,266.56,3,open,open,775.01,1,0,1,1256.12,good morning,living_room,night,fan,ON
+17.09,89.44,3.31,63.83,0,42.32,2,closed,closed,1184.61,0,1,0,1234.4,open the window,living_room,afternoon,fan,ON
+17.25,24.83,93.51,89.21,0,165.72,1,open,closed,1761.36,0,1,0,1577.95,turn off the fan,living_room,afternoon,fan,ON
+35.86,76.23,18.13,85.04,0,79.43,1,open,open,1693.8,1,1,0,1000.36,turn off everything,bathroom,night,fan,ON
+31.28,29.15,74.0,51.05,0,228.68,0,closed,open,1070.49,0,1,1,1906.02,start the geyser,kitchen,afternoon,fan,ON
+16.48,83.41,31.51,73.32,0,230.01,2,closed,closed,911.38,1,0,1,382.93,turn off the fan,bedroom,evening,fan,ON
+22.41,78.19,47.9,11.32,0,220.39,2,open,open,946.34,1,1,1,1188.43,close the door,kitchen,evening,fan,ON
+23.81,73.54,87.6,48.11,0,147.17,2,open,open,1055.21,1,0,1,188.06,start the geyser,kitchen,evening,fan,ON
+27.99,39.49,51.48,71.88,0,213.23,3,closed,closed,723.82,0,1,0,1128.12,it's hot,kitchen,evening,fan,ON
+27.03,27.48,88.78,82.94,0,179.63,1,open,closed,691.98,0,0,1,1575.17,good night,bathroom,evening,light,OFF
+35.79,46.31,69.3,24.0,1,163.38,2,open,open,1554.93,1,1,0,1067.31,turn off everything,living_room,afternoon,fan,ON
+16.77,23.5,51.94,14.82,0,150.66,1,closed,open,1172.51,0,1,0,1422.2,turn on the light,living_room,afternoon,fan,ON
+23.63,38.65,97.45,60.08,1,297.59,0,closed,open,437.25,0,1,1,1712.85,close the door,bedroom,evening,fan,ON
+32.62,78.52,67.54,25.7,0,269.72,2,closed,open,1783.08,0,1,1,43.19,good morning,kitchen,afternoon,fan,ON
+20.9,36.14,54.47,76.62,1,271.33,3,closed,open,1468.21,0,1,0,112.59,open the window,bathroom,morning,fan,ON
+32.26,55.29,12.08,58.7,1,151.06,2,open,open,1369.69,1,0,0,223.09,turn on the light,bedroom,afternoon,fan,ON
+29.38,55.36,27.89,19.03,0,242.35,2,closed,open,949.61,0,1,0,11.68,I am home,bathroom,afternoon,fan,ON
+36.42,81.72,97.71,53.46,1,202.13,1,closed,open,1998.24,0,0,0,1193.05,close the door,bathroom,morning,window,OPEN
+37.42,30.47,4.95,10.7,0,194.44,3,open,closed,1841.72,1,0,1,925.48,I am home,bedroom,morning,fan,ON
+24.1,64.82,86.83,46.13,1,195.86,2,closed,closed,1008.66,0,1,1,1785.36,I am home,bedroom,morning,fan,ON
+35.85,37.27,74.5,19.02,1,246.11,3,closed,closed,802.97,1,1,1,1001.6,I am leaving,kitchen,night,fan,ON
+31.03,28.92,17.2,53.05,1,215.43,3,open,closed,1541.51,0,0,0,1527.07,open the window,living_room,afternoon,window,OPEN
+30.69,33.7,13.46,72.9,0,166.98,0,open,closed,1168.36,1,0,0,997.7,turn off the fan,kitchen,afternoon,fan,ON
+35.65,50.4,26.18,43.02,0,226.26,0,closed,closed,850.53,1,0,1,1903.26,good night,bathroom,night,fan,ON
+31.38,84.91,24.14,69.34,1,27.41,2,closed,open,939.04,0,1,0,367.73,I am leaving,bathroom,morning,fan,ON
+25.5,86.0,91.85,33.36,0,173.71,3,open,open,382.73,1,0,0,1416.52,open the window,kitchen,morning,fan,ON
+22.87,71.95,60.72,74.51,1,225.76,0,closed,open,895.41,0,1,1,1845.41,I am leaving,bedroom,night,fan,ON
+16.32,65.53,82.22,77.76,1,122.69,1,closed,open,987.1,1,0,1,210.35,it's hot,bathroom,morning,fan,ON
+34.81,55.7,90.15,38.3,0,276.21,2,closed,closed,1427.01,0,1,0,926.08,it's hot,bedroom,afternoon,fan,ON
+17.45,49.72,69.52,79.2,0,219.44,1,closed,open,1421.32,0,1,0,555.13,close the door,kitchen,afternoon,fan,ON
+16.97,30.63,14.23,72.62,0,223.83,3,open,closed,745.74,1,1,0,1500.52,good night,living_room,afternoon,fan,ON
+39.66,62.2,51.65,68.99,0,165.98,0,open,open,325.55,1,1,1,1175.97,good night,kitchen,night,fan,ON
+25.39,25.43,30.3,62.76,1,289.73,0,closed,open,1396.62,0,0,1,1207.71,it's hot,bedroom,evening,window,CLOSE
+30.99,64.64,51.66,53.57,0,249.9,2,closed,closed,845.76,1,1,0,1913.41,turn off the fan,bedroom,afternoon,fan,ON
+20.25,35.59,52.81,39.85,1,103.58,2,closed,closed,1080.05,1,0,1,1431.55,it's hot,kitchen,evening,fan,ON
+30.4,62.13,99.23,29.33,0,288.29,2,open,closed,495.35,1,1,1,1508.96,start the geyser,kitchen,morning,fan,ON
+32.27,68.99,10.22,65.75,1,69.88,2,open,closed,1965.98,1,0,0,55.09,close the door,bathroom,morning,fan,ON
+36.13,21.24,0.32,59.83,1,154.59,0,open,open,443.79,1,1,1,363.19,turn off the fan,bathroom,morning,fan,ON
+30.91,46.72,85.54,74.96,1,28.61,2,closed,closed,1909.8,1,1,0,1748.76,good morning,kitchen,evening,fan,ON
+32.34,83.68,3.92,73.56,1,214.67,1,open,open,792.52,1,0,0,506.13,good morning,bathroom,morning,fan,ON
+26.27,42.46,40.46,22.08,0,122.6,1,closed,closed,1732.86,0,1,1,824.68,I am home,kitchen,afternoon,fan,ON
+22.31,41.08,39.58,45.69,0,253.42,0,open,closed,484.71,1,1,1,643.45,it's hot,bathroom,night,fan,ON
+39.93,75.15,55.42,61.3,1,10.23,0,closed,closed,1163.98,1,1,0,818.78,turn off the fan,bedroom,afternoon,fan,ON
+34.08,31.77,59.55,47.21,1,240.72,1,open,open,1249.53,0,0,0,1187.67,turn off everything,bathroom,afternoon,window,OPEN
+18.66,61.68,70.28,33.87,0,121.59,1,open,closed,1273.01,0,0,0,911.46,turn on the light,bathroom,morning,window,OPEN
+24.72,69.22,23.62,52.13,1,140.01,2,closed,open,1851.17,1,1,1,149.62,open the window,bedroom,evening,fan,ON
+16.1,49.3,7.01,80.34,1,115.35,3,closed,closed,1977.7,1,1,1,1804.4,good night,bedroom,night,fan,ON
+19.77,60.2,65.04,39.89,1,60.17,2,closed,open,1630.23,1,0,1,1722.85,good morning,living_room,morning,fan,ON
+20.8,30.75,51.77,85.52,0,255.47,1,open,open,1679.84,1,0,0,1006.31,turn on the light,bathroom,night,fan,ON
+22.4,65.94,93.83,14.45,1,17.5,1,closed,closed,1783.79,0,0,0,505.03,close the door,kitchen,night,light,OFF
+21.07,67.02,64.48,37.85,0,219.62,2,closed,closed,1497.63,0,0,0,1231.85,turn off the fan,bedroom,afternoon,window,OPEN
+29.27,28.44,12.89,49.65,1,204.59,1,closed,open,1997.98,0,1,0,1985.96,turn off the fan,bathroom,morning,fan,ON
+24.92,30.13,28.87,65.48,0,43.32,3,closed,open,1408.3,0,1,1,1509.22,turn on the light,bedroom,evening,fan,ON
+31.12,64.87,22.42,23.65,0,271.9,0,open,open,867.29,0,1,0,1382.07,I am leaving,bathroom,afternoon,fan,ON
+33.1,58.96,46.54,17.33,1,198.41,1,open,open,1331.88,1,0,0,1067.61,good night,kitchen,evening,fan,ON
+37.61,57.61,30.18,13.0,1,160.79,0,closed,closed,495.11,0,1,1,1488.72,open the window,bathroom,morning,fan,ON
+26.1,87.97,52.36,82.33,0,132.86,1,open,closed,1611.84,0,1,1,318.56,open the window,kitchen,evening,fan,ON
+20.47,20.1,15.82,89.69,1,272.93,0,open,closed,364.03,0,1,1,195.78,close the door,bedroom,morning,fan,ON
+33.25,48.6,75.3,67.7,0,136.75,1,open,closed,876.09,1,0,1,441.03,I am home,living_room,evening,fan,ON
+32.41,34.88,41.99,12.76,0,288.06,0,closed,closed,370.62,1,1,1,1534.25,good morning,bathroom,afternoon,fan,ON
+23.44,44.43,25.14,34.79,0,175.72,0,open,open,370.71,1,0,1,732.88,I am home,bedroom,afternoon,fan,ON
+29.83,56.66,10.86,15.62,0,131.51,3,closed,closed,846.73,0,1,0,1241.59,turn off everything,living_room,evening,fan,ON
+29.68,88.7,10.97,73.44,1,169.91,0,open,open,1815.53,1,1,0,1681.26,turn off everything,living_room,evening,fan,ON
+24.5,60.19,56.74,31.02,1,230.76,2,closed,open,1181.27,0,1,1,30.67,open the window,living_room,evening,fan,ON
+33.41,21.74,32.85,85.55,1,20.52,3,open,closed,1989.63,1,1,0,941.07,open the window,bedroom,evening,fan,ON
+31.7,45.4,59.48,12.65,0,99.75,3,open,closed,349.82,0,0,0,1476.5,start the geyser,kitchen,evening,ac,ON
+24.98,81.55,54.65,10.01,1,150.21,3,open,open,1423.64,1,0,1,682.77,start the geyser,bathroom,morning,fan,ON
+23.68,78.93,10.33,38.88,1,168.62,3,open,closed,773.28,1,0,0,208.72,start the geyser,kitchen,afternoon,fan,ON
+37.29,72.03,73.25,67.68,1,178.54,0,closed,closed,1356.93,0,0,1,252.67,open the window,bathroom,night,window,OPEN
+32.19,42.33,30.43,42.59,0,195.8,1,open,closed,1920.64,0,0,1,454.63,it's hot,living_room,morning,window,OPEN
+25.96,25.52,3.52,45.08,1,209.96,0,closed,closed,546.15,0,1,0,1331.16,good night,living_room,evening,fan,ON
+26.39,47.6,77.92,21.7,0,59.91,0,open,closed,434.13,1,1,0,1593.82,turn off everything,bathroom,night,fan,ON
+32.26,24.53,32.74,21.5,0,181.05,1,open,open,700.94,1,1,0,1936.19,open the window,bedroom,afternoon,fan,ON
+34.64,72.46,65.42,41.43,0,215.89,2,closed,open,1003.32,1,0,0,1166.64,it's hot,living_room,morning,fan,ON
+19.86,48.11,77.59,53.01,1,111.46,3,closed,closed,1656.75,1,0,1,142.63,open the window,bathroom,morning,fan,ON
+19.85,55.17,75.69,12.78,0,81.95,1,closed,closed,896.93,0,0,0,1952.97,start the geyser,kitchen,evening,fan,OFF
+16.12,43.45,27.81,52.5,0,143.96,0,closed,closed,708.77,1,0,1,45.45,it's hot,bedroom,afternoon,fan,ON
+31.87,66.53,23.82,29.56,1,144.6,1,open,open,858.66,0,0,0,1229.13,turn off the fan,living_room,morning,ac,ON
+38.79,77.56,85.76,31.45,1,247.32,3,closed,closed,1478.22,1,1,0,12.47,good night,bedroom,evening,fan,ON
+27.33,73.42,66.32,61.87,1,98.01,0,open,open,1894.14,0,1,0,19.96,good night,living_room,afternoon,fan,ON
+19.67,67.63,98.58,33.75,0,183.95,3,open,open,589.74,0,1,1,698.53,good night,bathroom,evening,fan,ON
+18.24,82.01,67.53,15.19,1,71.29,3,closed,open,681.84,1,0,1,1821.36,good night,kitchen,night,fan,ON
+22.99,67.32,6.53,66.71,1,177.17,3,closed,open,830.84,1,0,1,1456.28,start the geyser,living_room,afternoon,fan,ON
+21.99,64.85,91.1,37.44,1,235.69,3,closed,open,1692.71,1,1,0,404.64,turn on the light,kitchen,evening,fan,ON
+18.5,36.34,99.14,47.04,0,148.81,2,closed,closed,1871.67,1,1,1,1435.59,I am leaving,living_room,morning,fan,ON
+27.44,85.2,51.83,43.53,1,63.97,0,open,closed,1789.05,0,1,1,254.18,open the window,kitchen,morning,fan,ON
+25.66,65.31,43.39,58.81,0,202.05,3,open,closed,732.65,1,1,1,460.32,I am leaving,kitchen,morning,fan,ON
+22.03,57.03,7.27,77.47,0,121.11,2,open,open,398.71,1,0,1,35.56,open the window,kitchen,evening,fan,ON
+19.28,78.04,39.06,32.36,1,148.71,1,open,closed,652.58,1,0,1,410.07,good morning,living_room,evening,fan,ON
+32.14,49.51,10.69,36.63,1,231.78,1,closed,closed,1788.59,1,0,1,844.76,I am leaving,bedroom,evening,fan,ON
+29.34,33.02,91.74,88.15,1,272.46,0,open,open,448.41,0,0,0,843.83,turn on the light,kitchen,evening,light,OFF
+26.9,27.44,81.29,36.06,1,135.28,0,closed,closed,1893.93,1,0,1,1949.9,turn on the light,living_room,morning,fan,ON
+20.57,63.98,26.59,66.41,1,286.76,3,closed,open,1532.41,0,0,1,1146.41,good night,living_room,night,window,CLOSE
+19.23,32.45,99.48,16.22,1,40.11,3,open,open,917.1,0,0,0,826.93,good morning,bedroom,morning,geyser,ON
+29.85,33.04,42.77,13.82,1,149.26,1,closed,open,513.61,1,0,0,1740.56,close the door,bathroom,evening,fan,ON
+25.42,56.88,75.22,39.96,1,211.14,1,closed,open,1301.75,1,0,0,1290.79,good morning,kitchen,night,fan,ON
+25.38,40.88,95.6,36.55,1,51.31,3,closed,closed,446.0,0,1,0,579.58,good night,kitchen,evening,fan,ON
+20.8,44.92,1.23,64.2,0,213.6,3,open,closed,1975.23,0,0,1,1829.37,good morning,kitchen,morning,light,ON
+33.92,71.55,19.25,85.84,1,82.46,1,open,closed,400.78,1,0,0,930.19,open the window,kitchen,morning,fan,ON
+37.56,50.63,97.54,19.36,1,27.76,2,closed,open,1371.52,0,1,1,147.38,good night,kitchen,night,fan,ON
+32.95,20.4,12.21,46.13,0,12.95,2,open,closed,1176.79,0,1,1,1532.18,start the geyser,bedroom,afternoon,fan,ON
+35.59,28.75,45.06,83.19,1,108.32,1,open,open,1057.89,0,0,1,656.58,open the window,living_room,morning,window,CLOSE
+29.36,68.52,45.48,51.98,1,41.44,1,open,open,1357.54,1,1,1,929.46,start the geyser,kitchen,evening,fan,ON
+19.58,35.37,76.41,61.1,0,230.89,0,open,open,1149.99,1,0,1,998.54,I am leaving,kitchen,morning,fan,ON
+34.99,38.24,83.97,48.36,0,198.21,0,closed,open,523.21,0,1,1,130.81,turn off everything,bedroom,afternoon,fan,ON
+37.68,46.01,51.59,71.65,1,10.52,3,closed,closed,697.87,0,0,1,486.05,turn off everything,bedroom,evening,ac,ON
+18.17,30.75,79.61,58.51,0,111.34,3,open,open,1378.92,1,1,1,505.89,turn off the fan,living_room,morning,fan,ON
+29.39,44.06,23.14,61.07,1,188.75,1,closed,closed,667.52,0,1,1,347.11,I am home,bedroom,night,fan,ON
+19.69,87.72,74.32,24.3,0,70.6,1,open,closed,900.89,1,0,1,185.62,turn on the light,bathroom,evening,fan,ON
+18.68,66.5,76.59,29.51,1,20.78,0,open,open,1082.43,1,0,0,1013.17,good night,kitchen,night,fan,ON
+26.84,62.11,59.66,39.87,0,32.39,0,open,open,501.27,1,1,0,65.43,close the door,kitchen,afternoon,fan,ON
+35.98,70.07,2.1,70.04,1,83.55,0,closed,open,1530.05,1,1,1,545.74,I am leaving,kitchen,evening,fan,ON
+36.57,87.89,31.37,86.45,0,271.51,1,open,closed,1484.44,1,1,0,624.18,open the window,living_room,night,fan,ON
+23.87,66.7,64.03,49.24,0,232.94,0,closed,open,701.59,1,1,1,511.6,I am leaving,living_room,night,fan,ON
+16.6,83.72,95.28,25.89,1,31.36,3,closed,closed,875.09,1,0,0,1799.12,I am leaving,bathroom,morning,fan,ON
+19.39,48.37,1.55,55.19,0,37.25,1,closed,open,361.49,1,0,0,1661.09,start the geyser,bedroom,morning,fan,ON
+38.84,32.81,73.31,14.02,0,92.13,1,open,closed,701.91,0,0,0,624.51,I am leaving,bedroom,evening,ac,ON
+31.63,63.05,23.69,77.17,1,155.01,2,closed,closed,1939.46,0,1,0,219.13,good morning,living_room,evening,fan,ON
+38.68,37.09,8.42,50.19,0,164.96,0,closed,open,874.31,0,0,1,397.81,open the window,bathroom,night,window,CLOSE
+37.36,23.47,54.46,69.26,1,158.14,3,open,closed,1682.17,0,1,0,859.6,I am leaving,bedroom,morning,fan,ON
+27.78,39.28,75.64,13.4,0,218.59,0,open,closed,1110.3,0,1,0,1898.79,good morning,bedroom,afternoon,fan,ON
+39.74,47.74,20.34,41.89,0,227.91,2,closed,open,755.18,1,1,0,1521.96,open the window,bedroom,morning,fan,ON
+24.57,69.13,99.3,21.78,1,280.53,2,open,closed,1404.37,1,1,1,1337.92,turn off the fan,bedroom,morning,fan,ON
+20.88,60.45,10.28,84.1,1,276.61,2,closed,open,1450.78,0,1,0,1759.8,start the geyser,bedroom,night,fan,ON
+37.02,53.98,5.83,21.56,1,100.36,0,closed,open,1586.63,0,1,1,120.05,I am leaving,bedroom,morning,fan,ON
+37.35,67.28,8.91,66.66,0,88.39,0,closed,open,1393.35,0,0,0,1987.19,it's hot,kitchen,morning,ac,ON
+30.61,36.92,82.2,54.69,1,248.65,3,closed,open,1720.88,0,0,0,100.99,close the door,bedroom,evening,window,OPEN
+17.56,40.84,58.97,50.92,0,193.15,0,open,open,1261.48,0,1,0,862.57,close the door,living_room,morning,fan,ON
+21.25,89.89,3.41,70.99,0,114.49,1,open,closed,432.07,0,0,0,562.37,good night,bedroom,evening,light,OFF
+25.17,61.39,12.21,76.5,0,84.68,1,open,open,911.77,0,1,0,770.51,I am home,bedroom,night,fan,ON
+20.81,48.11,71.85,47.21,0,122.76,0,closed,open,883.93,0,1,0,1655.55,turn off everything,bedroom,evening,fan,ON
+16.9,25.52,29.21,65.14,0,144.5,3,closed,closed,1720.01,1,0,0,90.88,turn on the light,living_room,morning,fan,ON
+23.35,39.79,49.83,73.46,0,231.52,1,open,open,866.35,0,0,1,1821.74,turn on the light,kitchen,afternoon,window,CLOSE
+36.84,48.54,9.05,57.24,0,279.05,3,open,open,915.02,1,0,0,561.5,I am leaving,bedroom,night,fan,ON
+35.17,31.71,3.9,41.9,1,167.67,3,open,closed,1728.6,0,1,0,1921.99,I am home,kitchen,morning,fan,ON
+26.47,59.91,56.84,73.38,0,111.55,3,open,open,837.24,1,1,1,406.09,start the geyser,bedroom,night,fan,ON
+19.83,67.25,64.47,55.75,1,124.42,2,closed,closed,1180.32,1,1,0,1362.23,turn on the light,bathroom,evening,fan,ON
+21.97,64.34,60.67,32.34,1,41.6,2,closed,open,1731.82,1,1,1,328.39,good morning,bathroom,afternoon,fan,ON
+37.62,45.95,43.56,71.82,1,245.09,2,closed,open,1010.16,1,1,0,1008.95,turn off the fan,kitchen,evening,fan,ON
+19.58,26.08,62.84,41.41,1,75.43,0,closed,open,1615.87,0,1,1,820.58,start the geyser,bathroom,morning,fan,ON
+30.85,36.93,10.88,53.98,0,139.38,1,open,open,734.34,0,0,1,133.62,good morning,bedroom,night,window,CLOSE
+32.87,75.03,91.44,84.15,0,267.02,2,open,closed,318.3,0,1,0,1805.09,close the door,bathroom,night,fan,ON
+36.66,56.03,27.1,81.97,1,186.96,3,open,closed,1832.79,1,1,0,1037.95,it's hot,bedroom,evening,fan,ON
+18.59,75.16,55.3,21.75,0,270.66,2,open,open,1680.11,1,0,1,140.94,close the door,kitchen,afternoon,fan,ON
+21.62,84.53,74.41,54.62,1,215.24,2,closed,open,1982.22,0,1,0,1317.54,close the door,bedroom,night,fan,ON
+33.1,77.8,15.82,88.27,0,159.47,0,closed,closed,937.57,1,1,1,1832.29,close the door,living_room,afternoon,fan,ON
+21.38,53.72,40.71,87.08,1,198.26,0,open,open,1916.75,0,0,1,1246.25,I am leaving,bedroom,evening,window,CLOSE
+17.36,83.3,99.3,72.74,0,162.51,0,closed,closed,1730.39,1,1,0,1793.98,turn on the light,kitchen,morning,fan,ON
+30.55,79.15,73.76,54.59,1,80.58,1,open,closed,804.54,0,1,0,412.28,I am leaving,bathroom,night,fan,ON
+28.9,31.16,3.7,62.35,0,88.33,0,open,closed,1094.26,1,0,0,325.29,I am leaving,living_room,afternoon,fan,ON
+18.55,32.83,24.8,54.36,1,147.92,1,closed,open,989.33,0,0,1,585.14,open the window,kitchen,evening,window,CLOSE
+36.28,43.99,16.91,69.91,1,84.1,1,closed,closed,520.92,0,1,0,1111.44,close the door,living_room,afternoon,fan,ON
+17.14,38.17,91.95,33.54,1,212.88,0,closed,closed,685.79,0,0,1,32.67,turn on the light,kitchen,morning,light,OFF
+29.51,35.85,1.39,31.41,0,128.87,0,closed,closed,1971.21,0,1,0,158.36,turn off everything,bathroom,afternoon,fan,ON
+26.02,29.34,15.91,60.96,1,124.14,0,closed,open,514.66,0,0,1,1149.79,open the window,bedroom,morning,window,CLOSE
+37.03,71.17,20.51,78.69,0,281.68,3,closed,closed,1356.83,0,0,1,561.28,start the geyser,kitchen,evening,ac,ON
+23.25,29.93,49.74,70.88,0,221.83,0,closed,closed,868.31,1,1,0,497.7,start the geyser,living_room,morning,fan,ON
+19.6,76.14,75.49,48.26,0,241.5,2,closed,closed,739.39,1,0,1,1760.8,good night,bathroom,morning,fan,ON
+29.12,66.77,73.51,46.56,1,87.82,3,closed,open,745.81,1,0,1,752.84,turn on the light,bathroom,evening,fan,ON
+23.09,26.12,60.62,63.17,1,230.86,1,open,open,1514.51,0,1,1,367.49,it's hot,bedroom,night,fan,ON
+29.72,26.29,48.03,25.24,1,202.07,2,closed,closed,668.62,1,0,0,867.09,it's hot,kitchen,night,fan,ON
+30.9,85.42,19.12,40.7,1,191.07,1,open,open,1888.06,1,1,0,17.62,it's hot,kitchen,morning,fan,ON
+35.35,43.95,84.6,31.86,1,78.93,3,closed,open,1277.46,0,1,0,334.92,good night,living_room,afternoon,fan,ON
+34.29,35.44,40.8,32.72,0,293.46,2,open,closed,927.24,0,1,0,874.93,start the geyser,bedroom,evening,fan,ON
+25.43,45.83,34.15,77.83,0,249.59,3,open,open,304.32,1,1,0,270.35,it's hot,living_room,afternoon,fan,ON
+23.37,24.33,2.22,85.8,1,81.72,1,closed,closed,1785.67,1,1,1,475.76,turn off the fan,living_room,afternoon,fan,ON
+36.38,38.14,11.87,11.54,1,72.91,3,open,open,1276.2,1,1,1,1386.02,I am leaving,bathroom,afternoon,fan,ON
+19.28,72.46,0.96,10.31,0,110.74,2,open,open,350.25,0,1,1,1636.5,it's hot,living_room,evening,fan,ON
+35.99,52.33,69.56,53.68,0,288.15,0,open,open,538.29,1,0,1,666.35,open the window,living_room,morning,fan,ON
+29.38,54.31,17.22,39.03,0,193.85,3,closed,open,559.25,1,0,0,264.76,good morning,bedroom,evening,fan,ON
+23.22,76.58,56.55,68.31,1,227.29,0,closed,open,1351.61,1,1,0,217.4,I am home,bathroom,night,fan,ON
+19.2,27.46,71.73,20.22,0,257.82,2,open,open,1603.87,0,1,0,630.27,it's hot,bathroom,afternoon,fan,ON
+35.86,73.76,48.84,22.43,1,127.82,2,open,open,1962.21,0,0,1,570.56,I am home,kitchen,night,window,CLOSE
+24.86,33.53,18.37,88.36,0,184.77,1,open,closed,373.23,1,0,0,1487.03,good night,bedroom,afternoon,fan,ON
+39.03,32.5,48.65,41.54,0,284.63,0,open,open,657.79,1,0,1,1922.61,good night,bedroom,evening,fan,ON
+18.07,26.31,53.55,44.22,0,272.76,0,open,closed,1475.65,1,0,1,1361.5,turn off the fan,bedroom,afternoon,fan,ON
+37.55,49.84,8.01,19.03,1,277.94,2,open,open,1972.22,1,0,0,1091.53,turn off everything,bedroom,morning,fan,ON
+24.43,83.15,20.16,48.1,0,231.73,1,closed,open,1721.72,1,1,0,1368.92,close the door,kitchen,morning,fan,ON
+24.55,30.72,31.32,16.29,1,272.47,1,open,closed,1706.48,0,0,1,367.18,good morning,living_room,night,window,OPEN
+26.58,20.58,69.8,19.59,1,84.57,3,closed,closed,1581.18,0,1,0,761.3,start the geyser,kitchen,morning,fan,ON
+26.69,85.27,66.83,77.74,1,277.21,2,closed,closed,1356.64,1,1,1,845.35,good night,bedroom,evening,fan,ON
+36.47,73.26,69.84,31.68,0,189.46,1,open,open,344.19,1,0,0,1290.43,turn on the light,living_room,morning,fan,ON
+18.14,76.32,88.28,81.3,0,121.17,1,open,open,1483.81,1,0,0,595.16,I am leaving,bedroom,afternoon,fan,ON
+17.98,42.22,39.27,25.71,0,30.95,1,closed,open,1282.41,1,0,0,353.94,good morning,kitchen,night,fan,ON
+37.17,50.19,3.83,39.49,1,29.22,3,closed,closed,555.98,1,0,0,56.12,I am home,kitchen,afternoon,fan,ON
+27.25,83.97,63.05,35.73,1,110.99,1,open,closed,919.38,0,1,1,1954.8,open the window,kitchen,afternoon,fan,ON
+29.35,40.53,1.9,42.91,0,299.43,3,open,open,1139.59,1,0,1,1441.79,open the window,kitchen,evening,fan,ON
+30.49,73.22,11.29,77.66,0,12.21,2,open,closed,1821.78,0,1,1,1592.73,good night,kitchen,night,fan,ON
+38.02,85.02,31.93,15.05,0,278.31,0,open,open,1475.07,0,1,1,688.9,turn off the fan,living_room,morning,fan,ON
+24.49,40.32,13.04,33.2,0,58.2,0,open,open,833.75,1,0,0,771.79,it's hot,bedroom,night,fan,ON
+32.1,46.26,4.16,43.11,0,238.98,0,open,open,1914.22,0,0,0,965.37,good morning,kitchen,evening,ac,ON
+36.73,39.74,80.99,11.92,0,131.66,2,closed,open,1926.05,1,1,0,782.43,start the geyser,bedroom,night,fan,ON
+27.51,55.99,62.55,51.88,1,198.83,0,closed,closed,802.11,1,1,0,1278.9,I am leaving,bedroom,morning,fan,ON
+33.54,45.06,83.92,83.26,1,14.01,1,open,closed,1973.71,0,0,1,1091.74,start the geyser,bedroom,evening,window,OPEN
+36.54,70.62,56.3,76.73,0,17.3,1,closed,closed,1965.27,0,0,1,76.05,it's hot,bathroom,night,window,OPEN
+18.57,64.33,3.23,33.5,1,19.54,1,closed,open,1633.94,1,1,0,631.27,open the window,kitchen,night,fan,ON
+31.56,27.15,42.85,69.19,0,20.25,0,open,closed,1364.87,0,0,1,0.87,start the geyser,bathroom,night,window,OPEN
+19.81,39.27,16.56,67.45,1,117.92,3,closed,open,446.23,0,1,0,143.29,close the door,kitchen,evening,fan,ON
+24.74,30.2,84.77,34.14,1,50.11,1,closed,open,1193.21,1,1,0,405.02,good morning,kitchen,morning,fan,ON
+29.42,76.7,20.89,78.84,1,191.97,1,open,open,1826.79,0,0,0,166.17,good night,bathroom,afternoon,window,OPEN
+24.36,31.49,44.22,29.24,1,207.8,2,open,closed,1381.58,1,0,1,1796.94,close the door,living_room,morning,fan,ON
+23.45,42.45,59.04,49.82,1,122.86,3,open,open,1420.21,0,0,1,1666.82,start the geyser,bathroom,morning,window,CLOSE
+29.3,59.7,62.98,61.6,1,92.89,1,open,open,660.92,0,0,1,1158.72,turn off the fan,bathroom,evening,window,CLOSE
+23.31,43.86,29.63,33.78,1,283.09,1,closed,closed,1582.33,1,0,1,452.6,good night,bedroom,morning,fan,ON
+26.42,20.09,56.42,62.98,1,216.76,1,open,closed,1820.85,1,0,0,521.88,I am home,kitchen,afternoon,fan,ON
+32.51,69.29,36.47,51.52,0,114.22,0,closed,closed,1958.39,0,1,0,884.83,good morning,kitchen,afternoon,fan,ON
+32.93,71.51,86.36,51.8,1,12.48,0,closed,open,1458.16,1,0,0,776.3,it's hot,bathroom,evening,fan,ON
+28.85,35.52,4.21,46.29,0,192.02,2,closed,open,1412.69,0,1,0,1879.46,turn off everything,living_room,night,fan,ON
+19.77,89.28,93.16,74.81,1,227.14,1,open,closed,794.96,0,1,1,283.01,turn off the fan,bedroom,night,fan,ON
+27.32,59.58,82.24,80.0,0,109.18,0,open,open,616.08,1,1,0,1416.64,good night,bathroom,evening,fan,ON
+39.14,58.69,39.58,31.7,0,263.0,1,open,open,1275.87,0,1,1,1474.85,close the door,living_room,afternoon,fan,ON
+16.69,79.19,24.19,19.77,0,88.54,2,closed,closed,1899.14,1,0,0,929.16,good morning,living_room,afternoon,fan,ON
+23.01,74.29,19.45,42.9,0,212.33,1,closed,open,1705.92,0,0,0,279.03,turn off the fan,bathroom,morning,window,OPEN
+22.57,21.66,35.28,56.12,0,85.76,3,closed,open,1106.68,0,1,1,440.84,turn on the light,living_room,morning,fan,ON
+22.78,33.39,3.68,84.79,0,234.93,2,closed,open,856.58,1,0,0,1026.41,close the door,bedroom,afternoon,fan,ON
+25.95,84.17,24.98,24.05,0,130.77,3,closed,closed,963.36,0,0,0,128.33,close the door,living_room,night,light,OFF
+22.46,29.22,10.47,28.39,1,122.11,0,closed,open,1409.95,0,0,1,144.94,close the door,bedroom,afternoon,window,CLOSE
+20.91,61.9,15.93,78.4,1,227.83,3,closed,open,1515.26,0,0,0,1166.46,I am home,bedroom,morning,window,OPEN
+32.5,45.64,94.26,19.87,1,19.17,1,open,closed,1846.13,0,1,1,1354.28,good morning,bathroom,afternoon,fan,ON
+36.78,88.06,55.89,60.21,1,98.38,0,closed,open,1294.9,1,1,0,431.41,good morning,kitchen,night,fan,ON
+29.5,75.65,70.79,28.15,0,29.33,2,open,closed,1326.47,1,1,1,926.43,good morning,bathroom,morning,fan,ON
+39.5,32.58,27.68,13.73,1,93.37,1,open,closed,1881.48,0,0,1,1018.26,good morning,kitchen,afternoon,ac,ON
+21.33,85.37,71.16,63.6,1,168.52,2,open,open,580.43,0,1,0,1515.07,open the window,bedroom,night,fan,ON
+21.15,56.79,5.06,23.9,0,201.74,3,open,closed,1662.6,1,1,0,1247.93,open the window,bathroom,evening,fan,ON
+20.45,43.5,95.98,18.58,0,251.16,2,open,open,1378.39,1,1,1,412.73,I am home,bathroom,morning,fan,ON
+37.09,38.26,96.02,42.01,0,192.63,2,closed,open,1464.03,1,1,1,722.53,turn on the light,kitchen,afternoon,fan,ON
+32.77,47.5,80.79,15.84,1,39.85,3,closed,closed,457.06,0,0,1,623.04,turn off the fan,living_room,morning,ac,ON
+33.24,48.87,90.17,87.54,1,36.75,2,closed,closed,1503.81,1,0,0,734.47,turn off everything,bedroom,night,fan,ON
+33.29,24.06,38.91,51.42,1,69.81,3,open,open,834.39,0,1,0,342.36,it's hot,bathroom,evening,fan,ON
+19.09,35.31,61.11,61.9,0,60.19,1,closed,closed,1614.19,1,1,1,988.19,I am home,living_room,evening,fan,ON
+31.52,78.14,98.16,35.51,1,79.64,3,closed,open,960.13,1,0,0,125.73,start the geyser,bedroom,evening,fan,ON
+33.53,37.31,81.81,31.22,0,268.65,1,open,closed,1286.08,0,0,0,396.65,turn off the fan,kitchen,night,ac,ON
+36.47,88.39,1.31,50.15,0,232.33,1,open,open,357.94,1,0,1,614.16,it's hot,bathroom,morning,fan,ON
+36.87,54.71,0.29,46.85,1,251.76,2,closed,closed,1486.32,1,0,1,228.92,it's hot,bedroom,afternoon,fan,ON
+22.35,48.52,46.02,59.01,0,202.14,2,closed,open,1980.92,0,0,1,1607.67,I am leaving,bathroom,afternoon,window,CLOSE
+37.13,73.47,20.71,87.23,0,202.45,3,closed,closed,731.54,1,0,0,1407.22,I am leaving,living_room,afternoon,fan,ON
+28.82,37.43,4.6,11.0,1,131.48,2,closed,closed,1841.92,1,0,0,504.75,turn off everything,kitchen,afternoon,fan,ON
+28.84,84.38,58.41,75.62,1,51.42,3,open,closed,1238.84,0,0,0,462.06,good night,bathroom,night,window,OPEN
+29.55,86.46,65.24,22.02,0,131.94,1,closed,open,351.01,1,1,1,1553.36,good morning,kitchen,morning,fan,ON
+29.71,89.69,1.4,25.75,1,81.96,1,closed,open,512.47,1,1,0,1496.17,good morning,kitchen,evening,fan,ON
+32.18,30.85,25.37,75.66,1,269.69,1,open,closed,1711.15,0,1,1,638.55,good morning,kitchen,evening,fan,ON
+25.91,69.56,49.4,42.33,1,194.74,3,closed,open,1871.65,0,1,0,871.3,start the geyser,bathroom,afternoon,fan,ON
+32.72,68.44,70.95,33.77,1,84.69,2,open,open,1157.43,0,0,0,1050.23,good morning,bathroom,afternoon,ac,ON
+37.63,89.01,54.59,33.92,0,10.05,1,closed,open,377.88,0,0,0,696.84,start the geyser,bedroom,morning,ac,ON
+30.85,72.0,9.91,69.42,0,22.44,2,open,open,658.2,0,1,1,1051.0,open the window,bedroom,night,fan,ON
+26.37,41.91,1.15,66.96,0,250.24,1,closed,closed,1964.98,0,0,1,1500.7,start the geyser,kitchen,night,light,OFF
+17.19,31.86,12.52,52.39,0,21.93,2,open,closed,699.85,1,0,0,1736.84,open the window,kitchen,evening,fan,ON
+32.67,81.88,22.48,21.21,1,25.76,0,open,open,405.47,1,0,0,988.49,close the door,kitchen,night,fan,ON
+30.38,22.84,19.19,57.27,0,123.72,3,open,open,1691.83,1,0,1,499.59,good morning,bedroom,evening,fan,ON
+27.04,54.02,38.21,29.37,1,105.54,3,closed,open,648.77,1,0,0,1617.47,it's hot,bathroom,evening,fan,ON
+22.71,89.95,29.26,10.35,0,36.0,1,open,closed,397.08,0,1,1,165.5,I am home,bedroom,evening,fan,ON
+30.06,77.82,15.89,20.36,1,278.45,0,open,closed,1136.3,1,1,0,345.55,I am home,kitchen,night,fan,ON
+27.09,77.14,32.86,73.45,0,235.22,2,closed,closed,852.75,1,1,0,775.3,I am leaving,kitchen,evening,fan,ON
+22.85,55.04,0.88,83.38,1,37.3,2,closed,closed,1655.99,0,0,1,1531.98,I am home,bathroom,afternoon,window,OPEN
+17.1,65.81,31.52,11.92,1,169.57,1,open,closed,1465.14,0,0,0,1529.97,turn off everything,living_room,afternoon,window,OPEN
+33.05,20.06,90.9,80.72,1,108.11,3,open,closed,470.05,0,0,1,1481.1,it's hot,bathroom,afternoon,ac,ON
+37.21,70.8,58.05,60.78,0,215.26,0,closed,closed,1866.09,1,1,1,1506.02,close the door,living_room,afternoon,fan,ON
+24.25,53.16,54.84,30.28,0,201.24,0,open,closed,1362.74,1,0,1,1196.21,turn off the fan,kitchen,afternoon,fan,ON
+29.86,22.83,69.68,21.86,0,219.48,2,open,closed,566.76,0,0,1,263.1,turn off everything,kitchen,night,light,OFF
+22.62,67.32,6.28,23.05,1,87.13,3,open,open,325.76,1,1,1,1354.99,turn on the light,living_room,afternoon,fan,ON
+36.08,26.32,2.9,56.71,0,55.19,3,open,closed,612.91,1,0,0,1022.14,good night,bathroom,morning,fan,ON
+26.71,45.2,80.75,19.3,0,226.41,3,closed,open,532.68,0,1,1,1662.88,it's hot,kitchen,night,fan,ON
